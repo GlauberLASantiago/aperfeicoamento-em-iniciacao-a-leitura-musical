@@ -271,4 +271,3 @@ report.update({'secondaryBackupSha256':'45d49d58e656e81eead4e2430db1bc417ba9d351
 (OUT/'docs/file-integrity.json').write_text(json.dumps(list(assets.values()),ensure_ascii=False,indent=2),encoding='utf8')
 print(json.dumps({k:v for k,v in report.items() if k not in ('missingReferences','externalReferences','youtubeVideoIds')},ensure_ascii=True,indent=2))
 print('Missing references:',len(report['missingReferences']),'YouTube links:',len(video_ids))
-

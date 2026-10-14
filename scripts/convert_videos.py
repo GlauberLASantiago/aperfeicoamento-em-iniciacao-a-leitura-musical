@@ -13,4 +13,3 @@ def convert(source):
 with concurrent.futures.ThreadPoolExecutor(max_workers=2) as pool:rows=list(pool.map(convert,sorted(args.source.rglob('*.flv'))))
 (args.destination/'conversion-manifest.json').write_text(json.dumps(rows,ensure_ascii=False,indent=2),encoding='utf8')
 print('PASS: converted',len(rows),'videos',flush=True)
-
