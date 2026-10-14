@@ -1,0 +1,956 @@
+{
+  "sourceBackupSha256": "4686aad81c10a19c11258a04db45aa609a616653c852dee245bd2d4e909eb8bc",
+  "sections": 26,
+  "activities": 179,
+  "activityTypes": {
+    "assign": 6,
+    "book": 25,
+    "chat": 1,
+    "forum": 17,
+    "label": 81,
+    "page": 28,
+    "quiz": 5,
+    "resource": 15,
+    "url": 1
+  },
+  "chapters": 82,
+  "questions": 103,
+  "questionTypes": {
+    "essay": 1,
+    "multichoice": 56,
+    "description": 46
+  },
+  "quizQuestionCounts": {
+    "102452": 2,
+    "102459": 44,
+    "103627": 10,
+    "anterior-4876": 2,
+    "anterior-5159": 44
+  },
+  "courseFileReferences": 427,
+  "uniquePublicFiles": 203,
+  "publicBytes": 193213909,
+  "excludedPrivateMailAttachmentRecords": 21,
+  "missingReferences": [
+    {
+      "location": "question-242360",
+      "reference": "@@PLUGINFILE@@/AT1.4_Som_01.mp3",
+      "reason": "No unambiguous file in backup"
+    },
+    {
+      "location": "question-242360",
+      "reference": "@@PLUGINFILE@@/AT1.4_Fig_07.jpg",
+      "reason": "No unambiguous file in backup"
+    },
+    {
+      "location": "question-242360",
+      "reference": "@@PLUGINFILE@@/AT1.4_Fig_01.jpg",
+      "reason": "No unambiguous file in backup"
+    },
+    {
+      "location": "question-242360",
+      "reference": "@@PLUGINFILE@@/AT1.4_Fig_02.jpg",
+      "reason": "No unambiguous file in backup"
+    },
+    {
+      "location": "question-242361",
+      "reference": "@@PLUGINFILE@@/AT1.4_Som_02.mp3",
+      "reason": "No unambiguous file in backup"
+    },
+    {
+      "location": "question-242361",
+      "reference": "@@PLUGINFILE@@/AT1.4_Fig_07.jpg",
+      "reason": "No unambiguous file in backup"
+    },
+    {
+      "location": "question-242361",
+      "reference": "@@PLUGINFILE@@/AT1.4_Fig_01.jpg",
+      "reason": "No unambiguous file in backup"
+    },
+    {
+      "location": "question-242361",
+      "reference": "@@PLUGINFILE@@/AT1.4_Fig_02.jpg",
+      "reason": "No unambiguous file in backup"
+    },
+    {
+      "location": "question-242362",
+      "reference": "@@PLUGINFILE@@/AT1.4_Som_03.mp3",
+      "reason": "No unambiguous file in backup"
+    },
+    {
+      "location": "question-242362",
+      "reference": "@@PLUGINFILE@@/AT1.4_Fig_03.jpg",
+      "reason": "No unambiguous file in backup"
+    },
+    {
+      "location": "question-242362",
+      "reference": "@@PLUGINFILE@@/AT1.4_Fig_04.jpg",
+      "reason": "No unambiguous file in backup"
+    },
+    {
+      "location": "question-242362",
+      "reference": "@@PLUGINFILE@@/AT1.4_Fig_02.jpg",
+      "reason": "No unambiguous file in backup"
+    },
+    {
+      "location": "question-242363",
+      "reference": "@@PLUGINFILE@@/AT1.4_Som_04.mp3",
+      "reason": "No unambiguous file in backup"
+    },
+    {
+      "location": "question-242363",
+      "reference": "@@PLUGINFILE@@/AT1.4_Fig_06.jpg",
+      "reason": "No unambiguous file in backup"
+    },
+    {
+      "location": "question-242363",
+      "reference": "@@PLUGINFILE@@/AT1.4_Fig_05.jpg",
+      "reason": "No unambiguous file in backup"
+    },
+    {
+      "location": "question-242363",
+      "reference": "@@PLUGINFILE@@/AT1.4_Fig_04.jpg",
+      "reason": "No unambiguous file in backup"
+    },
+    {
+      "location": "question-242364",
+      "reference": "@@PLUGINFILE@@/AT1.4_Som_08.mp3",
+      "reason": "No unambiguous file in backup"
+    },
+    {
+      "location": "question-242364",
+      "reference": "@@PLUGINFILE@@/AT1.4_Fig_21.jpg",
+      "reason": "No unambiguous file in backup"
+    },
+    {
+      "location": "question-242364",
+      "reference": "@@PLUGINFILE@@/AT1.4_Fig_08.jpg",
+      "reason": "No unambiguous file in backup"
+    },
+    {
+      "location": "question-242364",
+      "reference": "@@PLUGINFILE@@/AT1.4_Fig_09.jpg",
+      "reason": "No unambiguous file in backup"
+    },
+    {
+      "location": "question-242365",
+      "reference": "@@PLUGINFILE@@/AT1.4_Som_13.mp3",
+      "reason": "No unambiguous file in backup"
+    },
+    {
+      "location": "question-242365",
+      "reference": "@@PLUGINFILE@@/AT1.4_Fig_13.jpg",
+      "reason": "No unambiguous file in backup"
+    },
+    {
+      "location": "question-242365",
+      "reference": "@@PLUGINFILE@@/AT1.4_Fig_14.jpg",
+      "reason": "No unambiguous file in backup"
+    },
+    {
+      "location": "question-242365",
+      "reference": "@@PLUGINFILE@@/AT1.4_Fig_15.jpg",
+      "reason": "No unambiguous file in backup"
+    },
+    {
+      "location": "question-242366",
+      "reference": "@@PLUGINFILE@@/AT1.4_Som_21.mp3",
+      "reason": "No unambiguous file in backup"
+    },
+    {
+      "location": "question-242366",
+      "reference": "@@PLUGINFILE@@/AT1.4_Fig_16.jpg",
+      "reason": "No unambiguous file in backup"
+    },
+    {
+      "location": "question-242366",
+      "reference": "@@PLUGINFILE@@/AT1.4_Fig_21.jpg",
+      "reason": "No unambiguous file in backup"
+    },
+    {
+      "location": "question-242366",
+      "reference": "@@PLUGINFILE@@/AT1.4_Fig_34.jpg",
+      "reason": "No unambiguous file in backup"
+    },
+    {
+      "location": "question-242367",
+      "reference": "@@PLUGINFILE@@/AT1.4_Som_41.mp3",
+      "reason": "No unambiguous file in backup"
+    },
+    {
+      "location": "question-242367",
+      "reference": "@@PLUGINFILE@@/AT1.4_Fig_45.jpg",
+      "reason": "No unambiguous file in backup"
+    },
+    {
+      "location": "question-242367",
+      "reference": "@@PLUGINFILE@@/AT1.4_Fig_39.jpg",
+      "reason": "No unambiguous file in backup"
+    },
+    {
+      "location": "question-242367",
+      "reference": "@@PLUGINFILE@@/AT1.4_Fig_41.jpg",
+      "reason": "No unambiguous file in backup"
+    },
+    {
+      "location": "question-242368",
+      "reference": "@@PLUGINFILE@@/AT1.4_Som_25.mp3",
+      "reason": "No unambiguous file in backup"
+    },
+    {
+      "location": "question-242368",
+      "reference": "@@PLUGINFILE@@/AT1.4_Fig_27.jpg",
+      "reason": "No unambiguous file in backup"
+    },
+    {
+      "location": "question-242368",
+      "reference": "@@PLUGINFILE@@/AT1.4_Fig_25.jpg",
+      "reason": "No unambiguous file in backup"
+    },
+    {
+      "location": "question-242368",
+      "reference": "@@PLUGINFILE@@/AT1.4_Fig_26.jpg",
+      "reason": "No unambiguous file in backup"
+    },
+    {
+      "location": "question-242369",
+      "reference": "@@PLUGINFILE@@/AT1.4_Som_42.mp3",
+      "reason": "No unambiguous file in backup"
+    },
+    {
+      "location": "question-242369",
+      "reference": "@@PLUGINFILE@@/AT1.4_Fig_42.jpg",
+      "reason": "No unambiguous file in backup"
+    },
+    {
+      "location": "question-242369",
+      "reference": "@@PLUGINFILE@@/AT1.4_Fig_43.jpg",
+      "reason": "No unambiguous file in backup"
+    },
+    {
+      "location": "question-242369",
+      "reference": "@@PLUGINFILE@@/AT1.4_Fig_38.jpg",
+      "reason": "No unambiguous file in backup"
+    },
+    {
+      "location": "activity-103629",
+      "reference": "@@PLUGINFILE@@/AT1.4_Som_18.mp3",
+      "reason": "No unambiguous file in backup"
+    },
+    {
+      "location": "activity-103629",
+      "reference": "@@PLUGINFILE@@/AT1.4_Som_19.mp3",
+      "reason": "No unambiguous file in backup"
+    },
+    {
+      "location": "activity-103629",
+      "reference": "@@PLUGINFILE@@/AT1.4_Som_27.mp3",
+      "reason": "No unambiguous file in backup"
+    },
+    {
+      "location": "activity-103629",
+      "reference": "@@PLUGINFILE@@/AT1.4_Som_35.mp3",
+      "reason": "No unambiguous file in backup"
+    },
+    {
+      "location": "activity-103629",
+      "reference": "@@PLUGINFILE@@/AT1.4_Som_34.mp3",
+      "reason": "No unambiguous file in backup"
+    },
+    {
+      "location": "activity-103629",
+      "reference": "@@PLUGINFILE@@/AT1.4_Som_22.mp3",
+      "reason": "No unambiguous file in backup"
+    },
+    {
+      "location": "activity-103657",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit03.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-103657",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit19.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-103657",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit29.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-103657",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit07.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-103657",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit14.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-103657",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit18.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-103657",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit08.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-103657",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit06.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-103657",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit09.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-103657",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit17.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-103657",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit28.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-103657",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit21.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-103657",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit22.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-116291",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit03.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-116291",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit19.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-116291",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit29.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-116291",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit07.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-116291",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit14.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-116291",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit18.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-116291",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit08.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-116291",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit06.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-116291",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit09.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-116291",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit17.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-116291",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit28.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-116291",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit21.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-116291",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit22.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-102354",
+      "reference": "http://ead2.sead.ufscar.br/course/view.php?id=160",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-anterior-30784",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit03.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-anterior-30784",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit19.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-anterior-30784",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit29.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-anterior-30784",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit07.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-anterior-30784",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit14.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-anterior-30784",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit18.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-anterior-30784",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit08.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-anterior-30784",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit06.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-anterior-30784",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit09.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-anterior-30784",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit17.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-anterior-30784",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit28.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-anterior-30784",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit21.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-anterior-30784",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit22.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-anterior-30896",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit03.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-anterior-30896",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit19.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-anterior-30896",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit29.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-anterior-30896",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit07.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-anterior-30896",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit14.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-anterior-30896",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit18.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-anterior-30896",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit08.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-anterior-30896",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit06.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-anterior-30896",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit09.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-anterior-30896",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit17.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-anterior-30896",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit28.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-anterior-30896",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit21.gif",
+      "reason": "Moodle service or destination outside backup"
+    },
+    {
+      "location": "activity-anterior-30896",
+      "reference": "http://ead.sead.ufscar.br/pix/smartpix.php/tema_em/musica/rit22.gif",
+      "reason": "Moodle service or destination outside backup"
+    }
+  ],
+  "externalReferences": [
+    "https://audiovisual.uab.ufscar.br/em/glauber/epm4/an1_em_glauber_epm4.swf",
+    "https://docs.google.com/forms/d/15rCs-O1YIgLBQT8x_m-3pJqYG2C2qR9oofbugVLzvgk/viewform?embedded=true",
+    "https://docs.google.com/forms/d/1TIGQsx4Dap4vdfkZisUel0REflxrSa9uJEPfmOfsQt8/viewform?embedded=true",
+    "https://ead2.sead.ufscar.br/lib/editor/tinymce/tiny_mce/3.5.7b/plugins/musics/img/rit02.gif",
+    "https://ead2.sead.ufscar.br/lib/editor/tinymce/tiny_mce/3.5.7b/plugins/musics/img/rit03.gif",
+    "https://ead2.sead.ufscar.br/lib/editor/tinymce/tiny_mce/3.5.7b/plugins/musics/img/rit04.gif",
+    "https://ead2.sead.ufscar.br/lib/editor/tinymce/tiny_mce/3.5.7b/plugins/musics/img/rit05.gif",
+    "https://ead2.sead.ufscar.br/lib/editor/tinymce/tiny_mce/3.5.7b/plugins/musics/img/rit07.gif",
+    "https://ead2.sead.ufscar.br/lib/editor/tinymce/tiny_mce/3.5.7b/plugins/musics/img/rit08.gif",
+    "https://ead2.sead.ufscar.br/lib/editor/tinymce/tiny_mce/3.5.7b/plugins/musics/img/rit09.gif",
+    "https://ead2.sead.ufscar.br/lib/editor/tinymce/tiny_mce/3.5.7b/plugins/musics/img/rit10.gif",
+    "https://ead2.sead.ufscar.br/lib/editor/tinymce/tiny_mce/3.5.7b/plugins/musics/img/rit11.gif",
+    "https://ead2.sead.ufscar.br/lib/editor/tinymce/tiny_mce/3.5.7b/plugins/musics/img/rit12.gif",
+    "https://ead2.sead.ufscar.br/lib/editor/tinymce/tiny_mce/3.5.7b/plugins/musics/img/rit13.gif",
+    "https://ead2.sead.ufscar.br/lib/editor/tinymce/tiny_mce/3.5.7b/plugins/musics/img/rit17.gif",
+    "https://ead2.sead.ufscar.br/lib/editor/tinymce/tiny_mce/3.5.7b/plugins/musics/img/rit18.gif",
+    "https://ead2.sead.ufscar.br/lib/editor/tinymce/tiny_mce/3.5.7b/plugins/musics/img/rit19.gif",
+    "https://ead2.sead.ufscar.br/lib/editor/tinymce/tiny_mce/3.5.7b/plugins/musics/img/rit41.gif",
+    "https://ead2.sead.ufscar.br/lib/editor/tinymce/tiny_mce/3.5.7b/plugins/musics/img/rit42.gif",
+    "https://ead2.sead.ufscar.br/lib/editor/tinymce/tiny_mce/3.5.7b/plugins/musics/img/rit45.gif",
+    "https://ead2.sead.ufscar.br/lib/editor/tinymce/tiny_mce/3.5.7b/plugins/musics/img/rit46.gif",
+    "https://ead2.sead.ufscar.br/lib/editor/tinymce/tiny_mce/3.5.7b/plugins/musics/img/rit47.gif",
+    "https://ead2.sead.ufscar.br/lib/editor/tinymce/tiny_mce/3.5.7b/plugins/musics/img/rit48.gif",
+    "https://ead2.sead.ufscar.br/lib/editor/tinymce/tiny_mce/3.5.7b/plugins/musics/img/rit51.gif",
+    "https://ead2.sead.ufscar.br/lib/editor/tinymce/tiny_mce/3.5.7b/plugins/musics/img/rit56.gif",
+    "https://musescore.org/pt-br",
+    "https://www.youtube.com",
+    "https://www.youtube.com/watch?v=-vkhnr1e574",
+    "https://www.youtube.com/watch?v=09vOdD9sYIA",
+    "https://www.youtube.com/watch?v=3HUQXyBq0lM",
+    "https://www.youtube.com/watch?v=3LFyDUkUY4I",
+    "https://www.youtube.com/watch?v=3tpmn9lrmlY",
+    "https://www.youtube.com/watch?v=47bNdr_Ln8w",
+    "https://www.youtube.com/watch?v=4GfI2clheaE",
+    "https://www.youtube.com/watch?v=5kh0cB6GkaQ",
+    "https://www.youtube.com/watch?v=61OdSEKQqRc",
+    "https://www.youtube.com/watch?v=6pBWdskCFeg",
+    "https://www.youtube.com/watch?v=8G1vnO9P6I0",
+    "https://www.youtube.com/watch?v=8PxCPz8M0Cg",
+    "https://www.youtube.com/watch?v=8sr6eLf-fQ4",
+    "https://www.youtube.com/watch?v=8vdNFvrh02I",
+    "https://www.youtube.com/watch?v=AcRsEGzzSUA",
+    "https://www.youtube.com/watch?v=B0F0XhOxNbU",
+    "https://www.youtube.com/watch?v=BaifMhn4XKM",
+    "https://www.youtube.com/watch?v=CL0Eef5dAD0",
+    "https://www.youtube.com/watch?v=D4CAdOhpvN0",
+    "https://www.youtube.com/watch?v=DE6W4eW7r9w",
+    "https://www.youtube.com/watch?v=DcmxW03J1uk",
+    "https://www.youtube.com/watch?v=EYU-F_SKDuE",
+    "https://www.youtube.com/watch?v=EqSfCAetReQ",
+    "https://www.youtube.com/watch?v=GfeoCKrfHrk",
+    "https://www.youtube.com/watch?v=H8iB_XLRuhY",
+    "https://www.youtube.com/watch?v=HMsFk0vy--g",
+    "https://www.youtube.com/watch?v=K_nTgdnOpmY",
+    "https://www.youtube.com/watch?v=M6Y_Qp3k-_s",
+    "https://www.youtube.com/watch?v=MRvnenfjaD0",
+    "https://www.youtube.com/watch?v=MaH0Qf8URnc",
+    "https://www.youtube.com/watch?v=N1soS1sXEN4",
+    "https://www.youtube.com/watch?v=NFqJgr0cl4o",
+    "https://www.youtube.com/watch?v=N_wlTOlB2n0",
+    "https://www.youtube.com/watch?v=OKjDIZEW8oY",
+    "https://www.youtube.com/watch?v=ORX8WP2yG6A",
+    "https://www.youtube.com/watch?v=OUmwNFxpOY8",
+    "https://www.youtube.com/watch?v=PWSTbc9luf0",
+    "https://www.youtube.com/watch?v=PhGn2g4BDEY",
+    "https://www.youtube.com/watch?v=Rr4WvZ8UGqM",
+    "https://www.youtube.com/watch?v=SXVWOQRDgoQ",
+    "https://www.youtube.com/watch?v=Sq20ifEgNo0",
+    "https://www.youtube.com/watch?v=WzMMUThwgPw",
+    "https://www.youtube.com/watch?v=X23vsGfzTEs",
+    "https://www.youtube.com/watch?v=XRuXs1N3KU4",
+    "https://www.youtube.com/watch?v=YEGa51RGPT0",
+    "https://www.youtube.com/watch?v=ZAAaW5XEUoU",
+    "https://www.youtube.com/watch?v=ZKSIPYkdlJA",
+    "https://www.youtube.com/watch?v=ZieAcjC0TmM",
+    "https://www.youtube.com/watch?v=_MhTIrZ2M_g",
+    "https://www.youtube.com/watch?v=b8HoBXYt0GQ",
+    "https://www.youtube.com/watch?v=bKUlUKrDXdo",
+    "https://www.youtube.com/watch?v=cpWKiBrZEHc",
+    "https://www.youtube.com/watch?v=dSWBB_5nd4A",
+    "https://www.youtube.com/watch?v=ekYBWQfrkIo",
+    "https://www.youtube.com/watch?v=f6IZxbzp278",
+    "https://www.youtube.com/watch?v=fWumJp00SFo",
+    "https://www.youtube.com/watch?v=hAOY5WU95yw",
+    "https://www.youtube.com/watch?v=i4fgRXaXh1U",
+    "https://www.youtube.com/watch?v=jzC77vjAAYc",
+    "https://www.youtube.com/watch?v=l4OtteNqXVY",
+    "https://www.youtube.com/watch?v=n-2-Vpbsv9E",
+    "https://www.youtube.com/watch?v=n3_tugG_lyg",
+    "https://www.youtube.com/watch?v=sRoDZy7xUWo",
+    "https://www.youtube.com/watch?v=t4Do7roeIn4",
+    "https://www.youtube.com/watch?v=trl3g186aRk",
+    "https://www.youtube.com/watch?v=vfZh0U3as90",
+    "https://www.youtube.com/watch?v=vtb9iK5kENE",
+    "https://www.youtube.com/watch?v=wkIXHEejOxU",
+    "https://www.youtube.com/watch?v=yX6QM0Y7GxM",
+    "https://www.youtube.com/watch?v=yjvl9repJXA",
+    "https://www.youtube.com/watch?v=zUcpBJP6Hls"
+  ],
+  "youtubeVideoIds": [
+    "-vkhnr1e574",
+    "09vOdD9sYIA",
+    "3HUQXyBq0lM",
+    "3LFyDUkUY4I",
+    "3tpmn9lrmlY",
+    "47bNdr_Ln8w",
+    "4GfI2clheaE",
+    "5kh0cB6GkaQ",
+    "61OdSEKQqRc",
+    "6pBWdskCFeg",
+    "8G1vnO9P6I0",
+    "8PxCPz8M0Cg",
+    "8sr6eLf-fQ4",
+    "8vdNFvrh02I",
+    "AcRsEGzzSUA",
+    "B0F0XhOxNbU",
+    "BaifMhn4XKM",
+    "CL0Eef5dAD0",
+    "D4CAdOhpvN0",
+    "DE6W4eW7r9w",
+    "DcmxW03J1uk",
+    "EYU-F_SKDuE",
+    "EqSfCAetReQ",
+    "GfeoCKrfHrk",
+    "H8iB_XLRuhY",
+    "HMsFk0vy--g",
+    "K_nTgdnOpmY",
+    "M6Y_Qp3k-_s",
+    "MRvnenfjaD0",
+    "MaH0Qf8URnc",
+    "N1soS1sXEN4",
+    "NFqJgr0cl4o",
+    "N_wlTOlB2n0",
+    "OKjDIZEW8oY",
+    "ORX8WP2yG6A",
+    "OUmwNFxpOY8",
+    "PWSTbc9luf0",
+    "PhGn2g4BDEY",
+    "Rr4WvZ8UGqM",
+    "SXVWOQRDgoQ",
+    "Sq20ifEgNo0",
+    "WzMMUThwgPw",
+    "X23vsGfzTEs",
+    "XRuXs1N3KU4",
+    "YEGa51RGPT0",
+    "ZAAaW5XEUoU",
+    "ZKSIPYkdlJA",
+    "ZieAcjC0TmM",
+    "_MhTIrZ2M_g",
+    "b8HoBXYt0GQ",
+    "bKUlUKrDXdo",
+    "cpWKiBrZEHc",
+    "dSWBB_5nd4A",
+    "ekYBWQfrkIo",
+    "f6IZxbzp278",
+    "fWumJp00SFo",
+    "hAOY5WU95yw",
+    "i4fgRXaXh1U",
+    "jzC77vjAAYc",
+    "l4OtteNqXVY",
+    "n-2-Vpbsv9E",
+    "n3_tugG_lyg",
+    "sRoDZy7xUWo",
+    "t4Do7roeIn4",
+    "trl3g186aRk",
+    "vfZh0U3as90",
+    "vtb9iK5kENE",
+    "wkIXHEejOxU",
+    "yX6QM0Y7GxM",
+    "yjvl9repJXA",
+    "zUcpBJP6Hls"
+  ],
+  "learnerAccountsExported": false,
+  "quizAttemptsExported": false,
+  "forumPostsExported": false,
+  "rawBackupPublished": false,
+  "secondaryBackupSha256": "45d49d58e656e81eead4e2430db1bc417ba9d35153dc95ccb72e4407388ae37e",
+  "primaryActivities": 120,
+  "secondaryActivities": 59,
+  "unavailableFileReferences": 166,
+  "unavailableUniqueFiles": 40,
+  "unavailableFiles": [
+    {
+      "filename": "AT1.4_Som_01.mp3",
+      "sha1": "672f878e28d5f2a4e6123ca14d36962f30e6d3c8",
+      "mime": "audio/mp3",
+      "reason": "Referenced Moodle user repository file absent from backup"
+    },
+    {
+      "filename": "AT1.4_Fig_07.jpg",
+      "sha1": "8130cff3e3202efed9d35ab1d8638a317586d568",
+      "mime": "image/jpeg",
+      "reason": "Referenced Moodle user repository file absent from backup"
+    },
+    {
+      "filename": "AT1.4_Fig_01.jpg",
+      "sha1": "d64752e727b62632020d0f03d0e6627658db0843",
+      "mime": "image/jpeg",
+      "reason": "Referenced Moodle user repository file absent from backup"
+    },
+    {
+      "filename": "AT1.4_Fig_02.jpg",
+      "sha1": "7c9a8b8558aecbfe966e3aec4bfcbae300b709d0",
+      "mime": "image/jpeg",
+      "reason": "Referenced Moodle user repository file absent from backup"
+    },
+    {
+      "filename": "AT1.4_Som_02.mp3",
+      "sha1": "22ba0d0e303840b349c65cf83c5d1ec737441390",
+      "mime": "audio/mp3",
+      "reason": "Referenced Moodle user repository file absent from backup"
+    },
+    {
+      "filename": "AT1.4_Som_03.mp3",
+      "sha1": "3db3221e1390e7e4856d727af2d0d9ec803169db",
+      "mime": "audio/mp3",
+      "reason": "Referenced Moodle user repository file absent from backup"
+    },
+    {
+      "filename": "AT1.4_Fig_03.jpg",
+      "sha1": "ef41a7b3f95e7c7ed34effc89338c4cfd0d8baee",
+      "mime": "image/jpeg",
+      "reason": "Referenced Moodle user repository file absent from backup"
+    },
+    {
+      "filename": "AT1.4_Fig_04.jpg",
+      "sha1": "5b780663ee10bb175f7d971ca5b3ea3c5e9f6930",
+      "mime": "image/jpeg",
+      "reason": "Referenced Moodle user repository file absent from backup"
+    },
+    {
+      "filename": "AT1.4_Som_04.mp3",
+      "sha1": "800fcc82687b55f281b854d065af7f423b2139cf",
+      "mime": "audio/mp3",
+      "reason": "Referenced Moodle user repository file absent from backup"
+    },
+    {
+      "filename": "AT1.4_Fig_06.jpg",
+      "sha1": "7369c980b219d40455a63122b16f271ac52caa68",
+      "mime": "image/jpeg",
+      "reason": "Referenced Moodle user repository file absent from backup"
+    },
+    {
+      "filename": "AT1.4_Fig_05.jpg",
+      "sha1": "1904c731349883e9344c1895abc24fa1735aa642",
+      "mime": "image/jpeg",
+      "reason": "Referenced Moodle user repository file absent from backup"
+    },
+    {
+      "filename": "AT1.4_Som_08.mp3",
+      "sha1": "625d136d29035aebcc7c214e12988cf98ce13675",
+      "mime": "audio/mp3",
+      "reason": "Referenced Moodle user repository file absent from backup"
+    },
+    {
+      "filename": "AT1.4_Fig_21.jpg",
+      "sha1": "eb4941f8f2e2e2a3f2adb0e683bc43c5e4f2f657",
+      "mime": "image/jpeg",
+      "reason": "Referenced Moodle user repository file absent from backup"
+    },
+    {
+      "filename": "AT1.4_Fig_08.jpg",
+      "sha1": "fd1ad4f5a2a5dab49d2584d5e0ae3a5d9edb464d",
+      "mime": "image/jpeg",
+      "reason": "Referenced Moodle user repository file absent from backup"
+    },
+    {
+      "filename": "AT1.4_Fig_09.jpg",
+      "sha1": "b635c96a714e904b0d595a2585a8a36e6c418cee",
+      "mime": "image/jpeg",
+      "reason": "Referenced Moodle user repository file absent from backup"
+    },
+    {
+      "filename": "AT1.4_Som_13.mp3",
+      "sha1": "7f44a24e0d393e662f075959bf7fdf057a55c760",
+      "mime": "audio/mp3",
+      "reason": "Referenced Moodle user repository file absent from backup"
+    },
+    {
+      "filename": "AT1.4_Fig_13.jpg",
+      "sha1": "ca224b404db6deac93999088a413977cc3daf593",
+      "mime": "image/jpeg",
+      "reason": "Referenced Moodle user repository file absent from backup"
+    },
+    {
+      "filename": "AT1.4_Fig_14.jpg",
+      "sha1": "114fa0a35bfb073727678123e7118cc26ef5a7fb",
+      "mime": "image/jpeg",
+      "reason": "Referenced Moodle user repository file absent from backup"
+    },
+    {
+      "filename": "AT1.4_Fig_15.jpg",
+      "sha1": "ca37df3b934c7209f2a3db8c763c440c60de7489",
+      "mime": "image/jpeg",
+      "reason": "Referenced Moodle user repository file absent from backup"
+    },
+    {
+      "filename": "AT1.4_Som_18.mp3",
+      "sha1": "e9b7b03419f57eb35c4c6c1c8e8b8bc77bb1765f",
+      "mime": "audio/mp3",
+      "reason": "Referenced Moodle user repository file absent from backup"
+    },
+    {
+      "filename": "AT1.4_Som_21.mp3",
+      "sha1": "dde2b2304ef978f40b45e6a76972b9753d3dabe1",
+      "mime": "audio/mp3",
+      "reason": "Referenced Moodle user repository file absent from backup"
+    },
+    {
+      "filename": "AT1.4_Fig_16.jpg",
+      "sha1": "de15de71f8a92d63038ff15518be01c0a86019b4",
+      "mime": "image/jpeg",
+      "reason": "Referenced Moodle user repository file absent from backup"
+    },
+    {
+      "filename": "AT1.4_Fig_34.jpg",
+      "sha1": "e37948a94a5d005fb8dae14bc80116489e288f3e",
+      "mime": "image/jpeg",
+      "reason": "Referenced Moodle user repository file absent from backup"
+    },
+    {
+      "filename": "AT1.4_Som_41.mp3",
+      "sha1": "7464265890ea5258f88e7c75053abeb77c024666",
+      "mime": "audio/mp3",
+      "reason": "Referenced Moodle user repository file absent from backup"
+    },
+    {
+      "filename": "AT1.4_Fig_45.jpg",
+      "sha1": "dcd958e7db3bb4325c3d36907bcfdb7a8886e753",
+      "mime": "image/jpeg",
+      "reason": "Referenced Moodle user repository file absent from backup"
+    },
+    {
+      "filename": "AT1.4_Fig_39.jpg",
+      "sha1": "a476407f594bc0936999906519e067af03f0b68a",
+      "mime": "image/jpeg",
+      "reason": "Referenced Moodle user repository file absent from backup"
+    },
+    {
+      "filename": "AT1.4_Fig_41.jpg",
+      "sha1": "b1b797d62c2752f5d6dfcacbeeba386346cf41a0",
+      "mime": "image/jpeg",
+      "reason": "Referenced Moodle user repository file absent from backup"
+    },
+    {
+      "filename": "AT1.4_Som_25.mp3",
+      "sha1": "28291f01fcfe522cdec06b34cbef5a6c72f35f76",
+      "mime": "audio/mp3",
+      "reason": "Referenced Moodle user repository file absent from backup"
+    },
+    {
+      "filename": "AT1.4_Fig_27.jpg",
+      "sha1": "b12cc9b3ec25aa098a205b8d4d549888d21d047c",
+      "mime": "image/jpeg",
+      "reason": "Referenced Moodle user repository file absent from backup"
+    },
+    {
+      "filename": "AT1.4_Fig_25.jpg",
+      "sha1": "91d161c7cb15859b5b56a1bdb35361e1e61c27c4",
+      "mime": "image/jpeg",
+      "reason": "Referenced Moodle user repository file absent from backup"
+    },
+    {
+      "filename": "AT1.4_Fig_26.jpg",
+      "sha1": "b511b0c20f731cb25d89f7796ef0ac29deef376d",
+      "mime": "image/jpeg",
+      "reason": "Referenced Moodle user repository file absent from backup"
+    },
+    {
+      "filename": "AT1.4_Som_42.mp3",
+      "sha1": "a9f67d489157058692a65f223c65ec5b8f85ac56",
+      "mime": "audio/mp3",
+      "reason": "Referenced Moodle user repository file absent from backup"
+    },
+    {
+      "filename": "AT1.4_Fig_42.jpg",
+      "sha1": "b7f62fcf375da8b162d9fd5ce0ebc62f2f9df6de",
+      "mime": "image/jpeg",
+      "reason": "Referenced Moodle user repository file absent from backup"
+    },
+    {
+      "filename": "AT1.4_Fig_43.jpg",
+      "sha1": "971ffcbfd553e9b6b9bc117e53fef1c73a9f5134",
+      "mime": "image/jpeg",
+      "reason": "Referenced Moodle user repository file absent from backup"
+    },
+    {
+      "filename": "AT1.4_Fig_38.jpg",
+      "sha1": "329d1dd57d86049608f7845df798869ccb5ece0b",
+      "mime": "image/jpeg",
+      "reason": "Referenced Moodle user repository file absent from backup"
+    },
+    {
+      "filename": "AT1.4_Som_19.mp3",
+      "sha1": "b9ed5f89adc1a627131d0587e085b12199163e39",
+      "mime": "audio/mp3",
+      "reason": "Referenced Moodle user repository file absent from backup"
+    },
+    {
+      "filename": "AT1.4_Som_27.mp3",
+      "sha1": "590b9764594294f470dc1b0b005b6648c9db916f",
+      "mime": "audio/mp3",
+      "reason": "Referenced Moodle user repository file absent from backup"
+    },
+    {
+      "filename": "AT1.4_Som_35.mp3",
+      "sha1": "a4949c1823ad24a8adbbf375306f25709aa5fee8",
+      "mime": "audio/mp3",
+      "reason": "Referenced Moodle user repository file absent from backup"
+    },
+    {
+      "filename": "AT1.4_Som_34.mp3",
+      "sha1": "3f0cfe47b43a800b8b2fd1924bfe25f0e345ae76",
+      "mime": "audio/mp3",
+      "reason": "Referenced Moodle user repository file absent from backup"
+    },
+    {
+      "filename": "AT1.4_Som_22.mp3",
+      "sha1": "81d1bf5c28f11d90d62f5420c00a2625722d12c0",
+      "mime": "audio/mp3",
+      "reason": "Referenced Moodle user repository file absent from backup"
+    }
+  ],
+  "localVideoCount": 9
+}

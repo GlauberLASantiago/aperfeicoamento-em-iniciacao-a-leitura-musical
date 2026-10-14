@@ -1,0 +1,2162 @@
+[
+  {
+    "url": "files/2ce0de31d456e6943796e72160d574450c5775b1.png",
+    "sha1": "2ce0de31d456e6943796e72160d574450c5775b1",
+    "sha256": "ab4d0d15ad670b772d85273a09d3b57714748b9a7a61a9886f73ad63567814a5",
+    "bytes": 13404,
+    "mime": "image/png",
+    "names": [
+      "web_camera.png"
+    ]
+  },
+  {
+    "url": "files/a4939eb3f439269826cfc8a70f7318d0a565d0ca.png",
+    "sha1": "a4939eb3f439269826cfc8a70f7318d0a565d0ca",
+    "sha256": "eb8485f0ec8f661b11a87a448ec194ae3785702598257e13bb95448ce647ae56",
+    "bytes": 13418,
+    "mime": "image/png",
+    "names": [
+      "webconferencia.png"
+    ]
+  },
+  {
+    "url": "files/78ca1d90a2d983fe378ecce824c4ac991bb0bc14.png",
+    "sha1": "78ca1d90a2d983fe378ecce824c4ac991bb0bc14",
+    "sha256": "0af4db637bb7746ac7613fdff58582da0ededa629bfc35cb89a9555a26505132",
+    "bytes": 8803,
+    "mime": "image/png",
+    "names": [
+      "webconf.png"
+    ]
+  },
+  {
+    "url": "files/fdc658c3d16a2c826f63168b6b9ebb5e25af1ed3.png",
+    "sha1": "fdc658c3d16a2c826f63168b6b9ebb5e25af1ed3",
+    "sha256": "a1dfd7153f8924e097316d228c1f36a211d5f8a7670811a722618341912de93d",
+    "bytes": 28019,
+    "mime": "image/png",
+    "names": [
+      "Biblioteca_Virtual.png"
+    ]
+  },
+  {
+    "url": "files/1200a3bcbc682934c7b6c4f0b9fa46f883da350b.png",
+    "sha1": "1200a3bcbc682934c7b6c4f0b9fa46f883da350b",
+    "sha256": "013af8a50c450dbec388a512e608004382157662a46ef5631fb1db2d30003082",
+    "bytes": 8720,
+    "mime": "image/png",
+    "names": [
+      "WebconferenciaEM.png"
+    ]
+  },
+  {
+    "url": "files/48e2a5f2cbcc920f963edfe23a7a6b2721727d0e.png",
+    "sha1": "48e2a5f2cbcc920f963edfe23a7a6b2721727d0e",
+    "sha256": "44c84398384f8331916bf38dc7e989382704b60893257c59dc3830e729dc3bb5",
+    "bytes": 3628,
+    "mime": "image/png",
+    "names": [
+      "webconferenciaEA.png"
+    ]
+  },
+  {
+    "url": "files/2c5a14314f76c972044546755f4e2a9ba0b84a65.png",
+    "sha1": "2c5a14314f76c972044546755f4e2a9ba0b84a65",
+    "sha256": "b0a7264c104be8ff7ddaadd52150196ba007e0e7e3fd2ba0f43883bdac9be3af",
+    "bytes": 3079,
+    "mime": "image/png",
+    "names": [
+      "webconferencia_EM.png"
+    ]
+  },
+  {
+    "url": "files/370319929fc1479fa28e41d6275887da0bcaad1a.png",
+    "sha1": "370319929fc1479fa28e41d6275887da0bcaad1a",
+    "sha256": "7ae4b3a8310d0161b0ba5e0984dca462f638d56f108cd2a8afff5e5700f1d09c",
+    "bytes": 38637,
+    "mime": "image/png",
+    "names": [
+      "Logobibliotecavirtual1.png"
+    ]
+  },
+  {
+    "url": "files/b123d0368c0f6183c71eb0758f047d1f72af5765.png",
+    "sha1": "b123d0368c0f6183c71eb0758f047d1f72af5765",
+    "sha256": "e211b93e4c57793b7c11af27ae0941238b9246b1fb170768c67af13f680c19d4",
+    "bytes": 11004,
+    "mime": "image/png",
+    "names": [
+      "Imagem_Tutor_e_Tutora.png"
+    ]
+  },
+  {
+    "url": "files/3ba4b55eebf3a3784436ee6853d2cdae70c99eec.png",
+    "sha1": "3ba4b55eebf3a3784436ee6853d2cdae70c99eec",
+    "sha256": "0b82dc08086ec04bb21ea7c58da22335275cf5a05305c71181c066303c345536",
+    "bytes": 7887,
+    "mime": "image/png",
+    "names": [
+      "Imagem_Professora.png"
+    ]
+  },
+  {
+    "url": "files/881b6acffd57f84af19316e3d9a4b72afc1a4c78.png",
+    "sha1": "881b6acffd57f84af19316e3d9a4b72afc1a4c78",
+    "sha256": "df599c90574564cc631438b7e466954a1260aab277ae2098622033e1f68ce3c9",
+    "bytes": 9454,
+    "mime": "image/png",
+    "names": [
+      "Apresentação.png"
+    ]
+  },
+  {
+    "url": "files/cb6827ec1dc55fadad9d623b417b191d866afe3f.png",
+    "sha1": "cb6827ec1dc55fadad9d623b417b191d866afe3f",
+    "sha256": "e87cf5cc1a04bba53f2271318ac04f573be7c346a30092e03b572bf28a5c4972",
+    "bytes": 17262,
+    "mime": "image/png",
+    "names": [
+      "Presentation1.png"
+    ]
+  },
+  {
+    "url": "files/a4d234066761c7145eba1757a0559fd23ae99ba9.png",
+    "sha1": "a4d234066761c7145eba1757a0559fd23ae99ba9",
+    "sha256": "b2ed8ba83b6590c26afbf01e5350cb4613111eaafefc34260e280d69165ca829",
+    "bytes": 19640,
+    "mime": "image/png",
+    "names": [
+      "guia.png"
+    ]
+  },
+  {
+    "url": "files/5e369ebfbdec24bd76dda23e7eecfd59a8f2fe1d.png",
+    "sha1": "5e369ebfbdec24bd76dda23e7eecfd59a8f2fe1d",
+    "sha256": "56e0270e7fadb90151b639d0907dbc33974696a8e4e3865684385a8d0bc4d63b",
+    "bytes": 6488,
+    "mime": "image/png",
+    "names": [
+      "Alunos_por_tutorEM.png"
+    ]
+  },
+  {
+    "url": "files/7bb28744281bf2c85f3c886739771cd82f0c8eb2.png",
+    "sha1": "7bb28744281bf2c85f3c886739771cd82f0c8eb2",
+    "sha256": "33446bc0157cea1d8255e0d522b06954bb3b8783c7b514a0c6de81b412cf62b7",
+    "bytes": 3953,
+    "mime": "image/png",
+    "names": [
+      "Apresentacao-da_disciplinaEM.png"
+    ]
+  },
+  {
+    "url": "files/711876adfc34c0b6af91c9d71b885a190ac34ed3.png",
+    "sha1": "711876adfc34c0b6af91c9d71b885a190ac34ed3",
+    "sha256": "7a585d9dfd8be556cd707782a44412342d734281cf52434d9a424232e9b842ab",
+    "bytes": 3777,
+    "mime": "image/png",
+    "names": [
+      "Guia-da_disciplinaEM.png"
+    ]
+  },
+  {
+    "url": "files/d7ba2b0a1ef895976d02c3885f06c00027c13ad2.png",
+    "sha1": "d7ba2b0a1ef895976d02c3885f06c00027c13ad2",
+    "sha256": "f64303afe4d694a0181253831f3eb8edfc7c37c91f2d73b4364c6f57ca171480",
+    "bytes": 3314,
+    "mime": "image/png",
+    "names": [
+      "alunos_por_tutorEM.png"
+    ]
+  },
+  {
+    "url": "files/95942e507a6daa6b9612e93f1ee51ca1478ae517.png",
+    "sha1": "95942e507a6daa6b9612e93f1ee51ca1478ae517",
+    "sha256": "b424de110afecb640910283876cbad46e5600df171e3e3eeb8ee43134b144ff4",
+    "bytes": 1944,
+    "mime": "image/png",
+    "names": [
+      "apresentacaoEA.png"
+    ]
+  },
+  {
+    "url": "files/fdb9246bf762de770361e32bf500f3a7f6f28564.png",
+    "sha1": "fdb9246bf762de770361e32bf500f3a7f6f28564",
+    "sha256": "8ea89205087e37807ff550a9bf8d5ec6cc87acadc6b5fe2c527d41151c79411b",
+    "bytes": 1547,
+    "mime": "image/png",
+    "names": [
+      "GuiaEA.png"
+    ]
+  },
+  {
+    "url": "files/9449438548a24e769f85e8a34b674e1a2248c13c.png",
+    "sha1": "9449438548a24e769f85e8a34b674e1a2248c13c",
+    "sha256": "7a91df52b85fd4af04c701fdca96aca2142a52da4a2d0bfacdbdd76c91cb90d9",
+    "bytes": 3543,
+    "mime": "image/png",
+    "names": [
+      "aluno_por_tutorEM.png"
+    ]
+  },
+  {
+    "url": "files/3d7af0f7e818ebc81745f580ae5ed7d87688e95c.png",
+    "sha1": "3d7af0f7e818ebc81745f580ae5ed7d87688e95c",
+    "sha256": "49d1a1f4b57af2488424495fe8807dc1083d045a1c8776072a16841b45ba6ba5",
+    "bytes": 1687,
+    "mime": "image/png",
+    "names": [
+      "apresentacao_EM.png"
+    ]
+  },
+  {
+    "url": "files/2ce30d2428da9dc3ba58eb28fb01a78055c3f593.png",
+    "sha1": "2ce30d2428da9dc3ba58eb28fb01a78055c3f593",
+    "sha256": "e4ac82b4aa34162769a4d9f14a726e7c7a721c91cfbcc1ea8c3e77b8c79d264f",
+    "bytes": 1922,
+    "mime": "image/png",
+    "names": [
+      "guia_EM.png"
+    ]
+  },
+  {
+    "url": "files/a02bf976069b70c3640c70c5056f142e780d8bfa.mscz",
+    "sha1": "a02bf976069b70c3640c70c5056f142e780d8bfa",
+    "sha256": "4cd3e636f277badb86102e2806b9ae8ad0245ad2cff8b3760e03c111a84f7122",
+    "bytes": 21199,
+    "mime": "application/zip",
+    "names": [
+      "Leitura_Musical_1.mscz"
+    ]
+  },
+  {
+    "url": "files/b26b2f634d21505e2474a854a2dbc6dea5e51c41.pdf",
+    "sha1": "b26b2f634d21505e2474a854a2dbc6dea5e51c41",
+    "sha256": "e16335a27c24499a306cacb69570f06d37b14bcf7fd746b15e94d80566fa56ac",
+    "bytes": 1853915,
+    "mime": "application/pdf",
+    "names": [
+      "Leitura_Musical_1_Ebook_experimental.pdf"
+    ]
+  },
+  {
+    "url": "files/d7e9c48a784a6f79c2c0cd3abb35c87e1f70569b.mscz",
+    "sha1": "d7e9c48a784a6f79c2c0cd3abb35c87e1f70569b",
+    "sha256": "80d53b928d787ca512ec2ee13f5e054969af68041f6abe5f8cb009b9e12dadb0",
+    "bytes": 26667,
+    "mime": "application/zip",
+    "names": [
+      "Leitura_Musical_2.mscz"
+    ]
+  },
+  {
+    "url": "files/82e751082604f26eada38a4aafe5217f600aad96.pdf",
+    "sha1": "82e751082604f26eada38a4aafe5217f600aad96",
+    "sha256": "e68d57fc7bbc343a78d4daf874116a9dd38216020448cf78e7127c319507cade",
+    "bytes": 1586314,
+    "mime": "application/pdf",
+    "names": [
+      "Leitura_Musical_2_Ebook_experimental.pdf"
+    ]
+  },
+  {
+    "url": "files/b4b351da902400d57478f441eed701a518b7f455.mscz",
+    "sha1": "b4b351da902400d57478f441eed701a518b7f455",
+    "sha256": "5e3a463b0cacfd0b2961bf7e7529f1c5ed7513c010cc906f3cb4e7fb5d736f67",
+    "bytes": 29890,
+    "mime": "application/zip",
+    "names": [
+      "Leitura_Musical_3.mscz"
+    ]
+  },
+  {
+    "url": "files/ff7158e58e5c97983d2e0c5df2deb40240925137.pdf",
+    "sha1": "ff7158e58e5c97983d2e0c5df2deb40240925137",
+    "sha256": "b4440d6011de3588e854e1f31f3cf4e16ae0b2d57194a7492e20bceaa4afdcd0",
+    "bytes": 1132113,
+    "mime": "application/pdf",
+    "names": [
+      "Leitura_Musical_3_Ebook_experimental.pdf"
+    ]
+  },
+  {
+    "url": "files/e2df839aa91a045b3482dccaf3c861e2cd92446a.pdf",
+    "sha1": "e2df839aa91a045b3482dccaf3c861e2cd92446a",
+    "sha256": "a2c9cd461a4f923384cde650ee4bd8544fa313c7ea711f7a0206a359c71aa396",
+    "bytes": 666120,
+    "mime": "application/pdf",
+    "names": [
+      "Leitura_Musical_4_Ebook_experimental.pdf"
+    ]
+  },
+  {
+    "url": "files/cb490dbb9735224bca60b781f43fdf68f0b2887a.pdf",
+    "sha1": "cb490dbb9735224bca60b781f43fdf68f0b2887a",
+    "sha256": "15c119bc34544bf508f80ef7b5467afc105efe424376e5d1fa0a008ad9f1db0d",
+    "bytes": 842887,
+    "mime": "application/pdf",
+    "names": [
+      "V1_-_Cancoes_Brasileiras_de_Antigamente.pdf"
+    ]
+  },
+  {
+    "url": "files/697e03e0acd80bba1fa37ba97315887843142700.pdf",
+    "sha1": "697e03e0acd80bba1fa37ba97315887843142700",
+    "sha256": "a132b4fb11fb9c633b5a502881309b0f79667408f41bc293b1981fdb88a3a1a7",
+    "bytes": 960644,
+    "mime": "application/pdf",
+    "names": [
+      "Leitura_Musical_5_Ebook_experimental.pdf"
+    ]
+  },
+  {
+    "url": "files/fffed6c95c0dafa295e7be96530b01f6d1002eb3.pdf",
+    "sha1": "fffed6c95c0dafa295e7be96530b01f6d1002eb3",
+    "sha256": "a264b10d1a88bacae5496b448fc3e68eea6efb3d818cdc8c61c8a81c822d41a3",
+    "bytes": 517669,
+    "mime": "application/pdf",
+    "names": [
+      "Leitura_Musical_6_Ebook_experimental.pdf"
+    ]
+  },
+  {
+    "url": "files/075dead18dc68f98b3244fbff81772842d3f6348.mp3",
+    "sha1": "075dead18dc68f98b3244fbff81772842d3f6348",
+    "sha256": "122789d0f17a90df0e3a794240f81ebbdd3579e492084c0686cca7462c8e00c0",
+    "bytes": 153077,
+    "mime": "audio/mp3",
+    "names": [
+      "01.mp3"
+    ]
+  },
+  {
+    "url": "files/7573930691c709ac54db91d07f5256e26f13df5e.png",
+    "sha1": "7573930691c709ac54db91d07f5256e26f13df5e",
+    "sha256": "1f6d5c952ae7db74adc6c8696b37b9bc46faba1c72014689a8d4b091dcb7b462",
+    "bytes": 52275,
+    "mime": "image/png",
+    "names": [
+      "01.png"
+    ]
+  },
+  {
+    "url": "files/23649a7deb1cb6a630030cd8a55219948a06470d.mp3",
+    "sha1": "23649a7deb1cb6a630030cd8a55219948a06470d",
+    "sha256": "0829ed7bbec26df2d7e65a5512af9971ceff7e0c500fba9f3e355c3bb63cfbd5",
+    "bytes": 147853,
+    "mime": "audio/mp3",
+    "names": [
+      "02.mp3"
+    ]
+  },
+  {
+    "url": "files/055f9d99a7ff7f9e960a4e8a3a986fffb957c66a.png",
+    "sha1": "055f9d99a7ff7f9e960a4e8a3a986fffb957c66a",
+    "sha256": "0033dd5ab7db9c7093d59896751bb1ce1420e492de0664dc6d0de27a92f619be",
+    "bytes": 54274,
+    "mime": "image/png",
+    "names": [
+      "02.png"
+    ]
+  },
+  {
+    "url": "files/83365090cd154c37429c5d91c71a8f6df390319d.mp3",
+    "sha1": "83365090cd154c37429c5d91c71a8f6df390319d",
+    "sha256": "91d382f31359664d1c980381c60ed4a18865001eff72a67d38e831cfe11670e6",
+    "bytes": 154122,
+    "mime": "audio/mp3",
+    "names": [
+      "03.mp3"
+    ]
+  },
+  {
+    "url": "files/ec22ec0eaffd295ad552ca76850d00cf9f13388d.png",
+    "sha1": "ec22ec0eaffd295ad552ca76850d00cf9f13388d",
+    "sha256": "92407e16b32c3a29f4098651a036b1e23dacecfa39d81be50c8d81ce357d4b5d",
+    "bytes": 53946,
+    "mime": "image/png",
+    "names": [
+      "03.png"
+    ]
+  },
+  {
+    "url": "files/ddbcb3070da1de149a5387e04e416d56817d9370.mp3",
+    "sha1": "ddbcb3070da1de149a5387e04e416d56817d9370",
+    "sha256": "b5da10fd97c9c1cbcce1c6c12b2a4de2c37f2d3525265283b0eac58068139ac7",
+    "bytes": 150987,
+    "mime": "audio/mp3",
+    "names": [
+      "04.mp3"
+    ]
+  },
+  {
+    "url": "files/17065efbc8a4e4b4c5ab2edd5bcf146f1e5e0831.png",
+    "sha1": "17065efbc8a4e4b4c5ab2edd5bcf146f1e5e0831",
+    "sha256": "508d9564c49eb5d740b3154d6c92f14583e685d2c1d5e9b259f5225ca6bbf044",
+    "bytes": 56014,
+    "mime": "image/png",
+    "names": [
+      "04.png"
+    ]
+  },
+  {
+    "url": "files/04cb3506d3d5256e39aca6741ad7ef66d5e8e35f.mp3",
+    "sha1": "04cb3506d3d5256e39aca6741ad7ef66d5e8e35f",
+    "sha256": "144195fb2c4421a3c2b83dde3801affd90af28fbb4621ba708d756674c972ba7",
+    "bytes": 149942,
+    "mime": "audio/mp3",
+    "names": [
+      "05.mp3"
+    ]
+  },
+  {
+    "url": "files/cf8d14369bdf75de45e40677a165a25776668901.png",
+    "sha1": "cf8d14369bdf75de45e40677a165a25776668901",
+    "sha256": "8910a83f45a662880f8657892e73e5ec0b0acab2866a5d7cabf822a6e7002a20",
+    "bytes": 54726,
+    "mime": "image/png",
+    "names": [
+      "05.png"
+    ]
+  },
+  {
+    "url": "files/d7fe0004663fa5acd395d33842cbed31d36c01a6.png",
+    "sha1": "d7fe0004663fa5acd395d33842cbed31d36c01a6",
+    "sha256": "da0e2a63cc03d0fcab31afe86ef0447a47096846ce6684bd9b409a9544bce93b",
+    "bytes": 54268,
+    "mime": "image/png",
+    "names": [
+      "06.png"
+    ]
+  },
+  {
+    "url": "files/0651971e1d536e1072e3f8b992d72dbf12a92228.mp3",
+    "sha1": "0651971e1d536e1072e3f8b992d72dbf12a92228",
+    "sha256": "1298ca910275e91ffea64cb5231ff18defcf83e2b33a6bd8dea4786576ec7c6d",
+    "bytes": 155689,
+    "mime": "audio/mp3",
+    "names": [
+      "06.mp3"
+    ]
+  },
+  {
+    "url": "files/c10234eb111ff8ba6f75bb33008434e7b9dc24d0.mp3",
+    "sha1": "c10234eb111ff8ba6f75bb33008434e7b9dc24d0",
+    "sha256": "0dce71d985cc6382ad37094e05c47a0cbc65e925fbec84381743c18e0a0185a3",
+    "bytes": 150987,
+    "mime": "audio/mp3",
+    "names": [
+      "07.mp3"
+    ]
+  },
+  {
+    "url": "files/985bd8523ae53c710b72622a504e2908f69b3b9e.png",
+    "sha1": "985bd8523ae53c710b72622a504e2908f69b3b9e",
+    "sha256": "b248f849d436b3671c3c25d3af43ee766048af979a63cf08b2cd1818bb2acb13",
+    "bytes": 53937,
+    "mime": "image/png",
+    "names": [
+      "07.png"
+    ]
+  },
+  {
+    "url": "files/4dd89b4fed7992171214c197e0932b9b7e2e3c0d.mp3",
+    "sha1": "4dd89b4fed7992171214c197e0932b9b7e2e3c0d",
+    "sha256": "f864cec986ca5cc03198fa258e851e3de53c0d4acbeb6f4d77deff1e45d7c35f",
+    "bytes": 149420,
+    "mime": "audio/mp3",
+    "names": [
+      "08.mp3"
+    ]
+  },
+  {
+    "url": "files/160dff3c55d2911e2ab598cc7049c9c098c5b10f.png",
+    "sha1": "160dff3c55d2911e2ab598cc7049c9c098c5b10f",
+    "sha256": "b6433944961adf4e4b2f882a75a8ef108b866e04ee4a68b49bd7386e65b5b56e",
+    "bytes": 54393,
+    "mime": "image/png",
+    "names": [
+      "08.png"
+    ]
+  },
+  {
+    "url": "files/bc613fe97d6f14d38112ccd9e197ccbb0477f1a9.mp3",
+    "sha1": "bc613fe97d6f14d38112ccd9e197ccbb0477f1a9",
+    "sha256": "4111f11a2ba81f467d2a3a3c2d238db5703582576af3f0c983c04ab0ab856fcf",
+    "bytes": 149942,
+    "mime": "audio/mp3",
+    "names": [
+      "09.mp3"
+    ]
+  },
+  {
+    "url": "files/3b34a5e942594ace2e045c0bc1207d55ae1455c2.png",
+    "sha1": "3b34a5e942594ace2e045c0bc1207d55ae1455c2",
+    "sha256": "34117e11966607d236b174dfe70b0872a1892ddadc11db27e240dcb78fb66b3c",
+    "bytes": 53582,
+    "mime": "image/png",
+    "names": [
+      "09.png"
+    ]
+  },
+  {
+    "url": "files/5e54fac49d9a7cb6cf7bd03eb7b0c1633b836939.mp3",
+    "sha1": "5e54fac49d9a7cb6cf7bd03eb7b0c1633b836939",
+    "sha256": "1754160faaa8ce1534709bcaae965e9e697379ecb13f1c83acd2e7d706d3faf9",
+    "bytes": 155689,
+    "mime": "audio/mp3",
+    "names": [
+      "10.mp3"
+    ]
+  },
+  {
+    "url": "files/faaaba8a2fadb12737e044f9bc1d020569fa0751.png",
+    "sha1": "faaaba8a2fadb12737e044f9bc1d020569fa0751",
+    "sha256": "bc59b476f5e103fbfe6bb82e5aeda142103a2be0838ed939126dc0b71a2f9d16",
+    "bytes": 53589,
+    "mime": "image/png",
+    "names": [
+      "10.png"
+    ]
+  },
+  {
+    "url": "files/f6d90041866c713e31fbc5979431772241a30505.mp3",
+    "sha1": "f6d90041866c713e31fbc5979431772241a30505",
+    "sha256": "8da9e31b4fb692d1aae4974881f8c3aa581d6725722ffa43892bf8b3ef0d48f1",
+    "bytes": 149420,
+    "mime": "audio/mp3",
+    "names": [
+      "11.mp3"
+    ]
+  },
+  {
+    "url": "files/2ec753f1aa3c03d3ddd5ec027f8cc8d16d8c3cd3.png",
+    "sha1": "2ec753f1aa3c03d3ddd5ec027f8cc8d16d8c3cd3",
+    "sha256": "677b2057147ea3d30c98229d985b3249343a0fb52ed4ba2a91fc3aed8e5d7a89",
+    "bytes": 59928,
+    "mime": "image/png",
+    "names": [
+      "11.png"
+    ]
+  },
+  {
+    "url": "files/42bec77161af9e53dd875e7bb6f8bd19ff9682fc.mp3",
+    "sha1": "42bec77161af9e53dd875e7bb6f8bd19ff9682fc",
+    "sha256": "23c64afcbdbd4ecc56b9d43d47bc32c1de1038c16960613a491a16b209e2bf87",
+    "bytes": 150987,
+    "mime": "audio/mp3",
+    "names": [
+      "12.mp3"
+    ]
+  },
+  {
+    "url": "files/744b137bc49e325e3bce16b50eb70017c7f7f7d2.png",
+    "sha1": "744b137bc49e325e3bce16b50eb70017c7f7f7d2",
+    "sha256": "c6a51b5c2f2a4eae752be1c850deec68a00a69c7c29bee598ee84eb765844f10",
+    "bytes": 55565,
+    "mime": "image/png",
+    "names": [
+      "12.png"
+    ]
+  },
+  {
+    "url": "files/84eaf1f0d75f0e8fee6278ce0e767b2331fe2e88.mp3",
+    "sha1": "84eaf1f0d75f0e8fee6278ce0e767b2331fe2e88",
+    "sha256": "0f5b7a45c82678386caf3f4a47c59543ee6c008e711323c51430d207ec06b17e",
+    "bytes": 154122,
+    "mime": "audio/mp3",
+    "names": [
+      "13.mp3"
+    ]
+  },
+  {
+    "url": "files/a0d2b2b7f0767d48abbfe6e511f4d11539a53a1a.png",
+    "sha1": "a0d2b2b7f0767d48abbfe6e511f4d11539a53a1a",
+    "sha256": "432a2742e09bf5d9350232e8e33d248ed62cd53701fc01d32590d800ef9473bb",
+    "bytes": 56065,
+    "mime": "image/png",
+    "names": [
+      "13.png"
+    ]
+  },
+  {
+    "url": "files/cffc04bcaa0462ab5c2b57bd6f61d468ec2f63fc.mp3",
+    "sha1": "cffc04bcaa0462ab5c2b57bd6f61d468ec2f63fc",
+    "sha256": "bd6b14648fc66e239ce5a1866c43724d345fb2ef292b6ffe517d0837b71b7003",
+    "bytes": 156734,
+    "mime": "audio/mp3",
+    "names": [
+      "14.mp3"
+    ]
+  },
+  {
+    "url": "files/bda66064db5a9e5b86cad94849eebf67c790701b.png",
+    "sha1": "bda66064db5a9e5b86cad94849eebf67c790701b",
+    "sha256": "64846b3a04e6956d429f7a0bd02fb02f00a7ade6ef0ca5b28136d2c380244308",
+    "bytes": 57345,
+    "mime": "image/png",
+    "names": [
+      "14.png"
+    ]
+  },
+  {
+    "url": "files/ebd3c8d8c0c20ce24c29d0c99b1a4c2ea798c4b0.mp3",
+    "sha1": "ebd3c8d8c0c20ce24c29d0c99b1a4c2ea798c4b0",
+    "sha256": "ceaca50824f23b47a3dbc79af8a282ae03159fab9f60b8aa821b2fa26877d046",
+    "bytes": 155689,
+    "mime": "audio/mp3",
+    "names": [
+      "15.mp3"
+    ]
+  },
+  {
+    "url": "files/374c7a8ce1ac3da3135181c3dc93c127bcaa742d.png",
+    "sha1": "374c7a8ce1ac3da3135181c3dc93c127bcaa742d",
+    "sha256": "2b54ef48f448c583f9091fc91fe1e0ceab619458f568e59a072851987617bd71",
+    "bytes": 55613,
+    "mime": "image/png",
+    "names": [
+      "15.png"
+    ]
+  },
+  {
+    "url": "files/5ec1b983fcfa65b3d6f1f4f5988f0c229181dbc3.mp3",
+    "sha1": "5ec1b983fcfa65b3d6f1f4f5988f0c229181dbc3",
+    "sha256": "90c450c6d7100baae9b705b0d3de26815efd93c409b462b30087eac8c2b4559c",
+    "bytes": 153077,
+    "mime": "audio/mp3",
+    "names": [
+      "16.mp3"
+    ]
+  },
+  {
+    "url": "files/286b663b434df7a4975fa7847f50b9eff06ef26d.png",
+    "sha1": "286b663b434df7a4975fa7847f50b9eff06ef26d",
+    "sha256": "a62f286dc6064935a3ed4d17d5c9149b9c34defa161ec8b8fc8b4acb856ec4d2",
+    "bytes": 55406,
+    "mime": "image/png",
+    "names": [
+      "16.png"
+    ]
+  },
+  {
+    "url": "files/e235858df2021df04967e77c122b1a59b7af85a2.mp3",
+    "sha1": "e235858df2021df04967e77c122b1a59b7af85a2",
+    "sha256": "ba211a9566bf5330733b4d74626c6aa3ab445f38c602b9341b5d6ddc45914a59",
+    "bytes": 149942,
+    "mime": "audio/mp3",
+    "names": [
+      "17.mp3"
+    ]
+  },
+  {
+    "url": "files/17889e1296fdedd3a7ab60a97dfe27e5b62f604f.png",
+    "sha1": "17889e1296fdedd3a7ab60a97dfe27e5b62f604f",
+    "sha256": "3f6009d9564d5e922e423b5114ee320a3a5eda2dcdac9aee0fdeb2da9199f84f",
+    "bytes": 55220,
+    "mime": "image/png",
+    "names": [
+      "17.png"
+    ]
+  },
+  {
+    "url": "files/98b0de82dc1ea4c3ed18938611794e053896e4d3.mp3",
+    "sha1": "98b0de82dc1ea4c3ed18938611794e053896e4d3",
+    "sha256": "72ef2aa06f5f9b00533fda0d4767be77a5969749c00d3dc79b31d8c7a2f926bd",
+    "bytes": 150987,
+    "mime": "audio/mp3",
+    "names": [
+      "18.mp3"
+    ]
+  },
+  {
+    "url": "files/4bc42d823789a0b01007f6c38478a890cd741e49.png",
+    "sha1": "4bc42d823789a0b01007f6c38478a890cd741e49",
+    "sha256": "59e1de15c25564e1226ff669348ca1a92b64c6642220a05c7ac9008b09109b71",
+    "bytes": 52070,
+    "mime": "image/png",
+    "names": [
+      "18.png"
+    ]
+  },
+  {
+    "url": "files/de9f84179c4c401f8c00f67702acf5507b732e17.mp3",
+    "sha1": "de9f84179c4c401f8c00f67702acf5507b732e17",
+    "sha256": "cdbde96d7e51b3a443c80d197e204b1cb02db9c029fd4ccf42e44600156dc6cc",
+    "bytes": 155689,
+    "mime": "audio/mp3",
+    "names": [
+      "19.mp3"
+    ]
+  },
+  {
+    "url": "files/8beec7e505f35c0e49caca433777df126ba3bf8f.png",
+    "sha1": "8beec7e505f35c0e49caca433777df126ba3bf8f",
+    "sha256": "357601b24c8b56fef0b57a267101d3d7c0991275811e0e7c62740fb87aa66981",
+    "bytes": 54020,
+    "mime": "image/png",
+    "names": [
+      "19.png"
+    ]
+  },
+  {
+    "url": "files/7b8d233dbe09eeb060ddf48cb734183bf789f0ef.mp3",
+    "sha1": "7b8d233dbe09eeb060ddf48cb734183bf789f0ef",
+    "sha256": "29741241ce51ff18e6ad1c7c480b0870b43e3833b20ab80f74592ef15a38b2a2",
+    "bytes": 150987,
+    "mime": "audio/mp3",
+    "names": [
+      "20.mp3"
+    ]
+  },
+  {
+    "url": "files/e1cd2fc6e7bc71d024baa9eb6feffffdd6b20ad3.png",
+    "sha1": "e1cd2fc6e7bc71d024baa9eb6feffffdd6b20ad3",
+    "sha256": "3413af31e83b3f81b19ece88bea06aaeb9e91140a7faa96bbe2e85fe577b8ac2",
+    "bytes": 54986,
+    "mime": "image/png",
+    "names": [
+      "20.png"
+    ]
+  },
+  {
+    "url": "files/a2f6618ec99ac27dffe3736803887fb92478ca8e.mp3",
+    "sha1": "a2f6618ec99ac27dffe3736803887fb92478ca8e",
+    "sha256": "31f0fb9f2275703d9589a42f4512f6548532663e8fb2d6b5c5c7deb9aa4ce1ec",
+    "bytes": 156734,
+    "mime": "audio/mp3",
+    "names": [
+      "21.mp3"
+    ]
+  },
+  {
+    "url": "files/5721ed849b8942d132d1698a34ef42907cb6bb08.png",
+    "sha1": "5721ed849b8942d132d1698a34ef42907cb6bb08",
+    "sha256": "0733d00b9b161bb7c2d3993a78909a4aad421a07f7a2055657543d34e98d7cf7",
+    "bytes": 55166,
+    "mime": "image/png",
+    "names": [
+      "21.png"
+    ]
+  },
+  {
+    "url": "files/596753dcf1f58e233e01e8ee7543077a63c9a9eb.mp3",
+    "sha1": "596753dcf1f58e233e01e8ee7543077a63c9a9eb",
+    "sha256": "8c05dc18a5952c5bb88ffaff26ceaca398999254fa790d02e221fb2c972020b9",
+    "bytes": 163526,
+    "mime": "audio/mp3",
+    "names": [
+      "22.mp3"
+    ]
+  },
+  {
+    "url": "files/431ee08b6c7c6620954401d46034f7209993e8ea.png",
+    "sha1": "431ee08b6c7c6620954401d46034f7209993e8ea",
+    "sha256": "96be9f252490e9414e533d418c920335090ad6decf64f6e818f43dcab99b6472",
+    "bytes": 57234,
+    "mime": "image/png",
+    "names": [
+      "22.png"
+    ]
+  },
+  {
+    "url": "files/5f1b48ef5bcbb288c92e38054d0ea3931802c0b8.pdf",
+    "sha1": "5f1b48ef5bcbb288c92e38054d0ea3931802c0b8",
+    "sha256": "653e871ac56fabf621e8d11734584ffb83a167923623823dd99e316625b72e06",
+    "bytes": 8861,
+    "mime": "application/pdf",
+    "names": [
+      "AT 1.5 Folha de respostas.pdf"
+    ]
+  },
+  {
+    "url": "files/4daf87287e96fd4ecc3691bec75976a4d9088815.mp3",
+    "sha1": "4daf87287e96fd4ecc3691bec75976a4d9088815",
+    "sha256": "e2e5f2037e87b94fb7ec21667dd09782a7c0618554ac8da0b9317d7d5964590b",
+    "bytes": 258615,
+    "mime": "audio/mp3",
+    "names": [
+      "AT1.4_Som_37.mp3"
+    ]
+  },
+  {
+    "url": "files/aad24c3610fe60b07b51550282155dfec8cb4af8.mp3",
+    "sha1": "aad24c3610fe60b07b51550282155dfec8cb4af8",
+    "sha256": "b253d8684868fa36e2c005c103671365591c36b434ecb2d9caeb9bbb38190967",
+    "bytes": 260287,
+    "mime": "audio/mp3",
+    "names": [
+      "AT1.4_Som_28.mp3"
+    ]
+  },
+  {
+    "url": "files/29784638acdc2860b3c6229dce6051a8a299fda0.pdf",
+    "sha1": "29784638acdc2860b3c6229dce6051a8a299fda0",
+    "sha256": "bf7fe78b0c1a67c02faaea867eeb2a317843c74f3b3d592b9c6477d0010e1e4e",
+    "bytes": 3601,
+    "mime": "application/pdf",
+    "names": [
+      "Papel_em_branco.pdf"
+    ]
+  },
+  {
+    "url": "files/6b20ae66905b9b7c71e268a0976eed5bf99dc8fa.docx",
+    "sha1": "6b20ae66905b9b7c71e268a0976eed5bf99dc8fa",
+    "sha256": "84a5074eac5fe7c6027490cc99486a58adac04a44bebc4504b111b188b64c791",
+    "bytes": 197440,
+    "mime": "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
+    "names": [
+      "AT 1.5 Gabarito.docx"
+    ]
+  },
+  {
+    "url": "files/9aef7485dc29d72ca32e7ae696e7e80a74525bbc.jpg",
+    "sha1": "9aef7485dc29d72ca32e7ae696e7e80a74525bbc",
+    "sha256": "6843139ec8d498629c3b20313889e24957d6861fd5ab28e2bbfd15ab93dff590",
+    "bytes": 85038,
+    "mime": "image/jpeg",
+    "names": [
+      "GlauberFace2012.jpg",
+      "DSC01211bbb.jpg"
+    ]
+  },
+  {
+    "url": "files/3b2e2c28c26d2f07a9bb7fd070eba2da1efc1a3f.jpg",
+    "sha1": "3b2e2c28c26d2f07a9bb7fd070eba2da1efc1a3f",
+    "sha256": "a6f34a1d549ad92b593ed95c67107a2c1810cca27aa5d00068422fe4ad206dc7",
+    "bytes": 8084,
+    "mime": "image/jpeg",
+    "names": [
+      "perfil_moodle.jpg"
+    ]
+  },
+  {
+    "url": "files/6bd6c3803d064c20b22f6ff87e18108cfd18f258.pdf",
+    "sha1": "6bd6c3803d064c20b22f6ff87e18108cfd18f258",
+    "sha256": "d933f6287724e31bb4b01bed312a7e6e0458e09c238efed5d8a6507b8c5403f6",
+    "bytes": 14053,
+    "mime": "application/pdf",
+    "names": [
+      "Exercício de leitura AILM Unidade 4.pdf"
+    ]
+  },
+  {
+    "url": "files/a020ca137b38b1d17b73e49ef5162ccd9e1f0b83.mp3",
+    "sha1": "a020ca137b38b1d17b73e49ef5162ccd9e1f0b83",
+    "sha256": "f10e04cb4ca15696245af19830bd3059bb9b060cd315da1d65de90e21e6e6292",
+    "bytes": 2339216,
+    "mime": "audio/mp3",
+    "names": [
+      "Exercício_de_Leitura_AILM_Uni_4.mp3",
+      "Exercicio_de_Leitura_AILM_Uni_4.mp3"
+    ]
+  },
+  {
+    "url": "files/f84994e68680db360e3a6e66a45df1a1239ed335.mscz",
+    "sha1": "f84994e68680db360e3a6e66a45df1a1239ed335",
+    "sha256": "a0a7ec39fc03e5b54ef846d30a4535cf1ff03d2ea709353d4ae77ceb780ce13a",
+    "bytes": 32007,
+    "mime": "application/zip",
+    "names": [
+      "Leitura Musical 4.mscz"
+    ]
+  },
+  {
+    "url": "files/6d86e2db18f43dd4e08dab07bf2bc6e4b3ded5a7.mscz",
+    "sha1": "6d86e2db18f43dd4e08dab07bf2bc6e4b3ded5a7",
+    "sha256": "597c12077bb70d89d0270a3f91a85e1a23fcf648e92c400203562b02f9e1be64",
+    "bytes": 24444,
+    "mime": "application/zip",
+    "names": [
+      "Leitura Musical 5.mscz"
+    ]
+  },
+  {
+    "url": "files/9e68a65e2e946ea35d7841e3152f89dae88696dd.pdf",
+    "sha1": "9e68a65e2e946ea35d7841e3152f89dae88696dd",
+    "sha256": "da491fbf341cc1d97b24518e0b99c22a956bd3b5c9a66ce11d31389311fc0c78",
+    "bytes": 682798,
+    "mime": "application/pdf",
+    "names": [
+      "Noel Rosa Canções com Melodias e Letras Clave de Fá.pdf"
+    ]
+  },
+  {
+    "url": "files/7a0b83188975fc380ce9a93a0573473390ce4695.mscz",
+    "sha1": "7a0b83188975fc380ce9a93a0573473390ce4695",
+    "sha256": "f46856b6648e957d333e413cce64caf7e2b766764fe94bd131ba9ba28d2bc82d",
+    "bytes": 25357,
+    "mime": "application/zip",
+    "names": [
+      "Leitura Musical 6.mscz"
+    ]
+  },
+  {
+    "url": "files/9ac40fa252e53d3464b9e71b302c1160f65ff8c0.mscz",
+    "sha1": "9ac40fa252e53d3464b9e71b302c1160f65ff8c0",
+    "sha256": "e0479a2af12161f94e55e229e25b1eed44c79f619afb67592f26c66991b07e75",
+    "bytes": 22439,
+    "mime": "application/zip",
+    "names": [
+      "Leitura Musical 7.mscz"
+    ]
+  },
+  {
+    "url": "files/4a4e798221e69e823e4c91279f7055bc4744c43e.pdf",
+    "sha1": "4a4e798221e69e823e4c91279f7055bc4744c43e",
+    "sha256": "cd738a1b8973df0faa328d5d35910d5d91ba75f8a78f0de8e7d85092d9a11c76",
+    "bytes": 838941,
+    "mime": "application/pdf",
+    "names": [
+      "Leitura_Musical_7__Ebook_experimental_.pdf"
+    ]
+  },
+  {
+    "url": "files/f2acab5e4d15af2b9219c8baffce5aa32d1ada5f.pdf",
+    "sha1": "f2acab5e4d15af2b9219c8baffce5aa32d1ada5f",
+    "sha256": "8c96d43a0e04f4c7bee40990ab4abf9aea1d361f08986350f937050706a9324a",
+    "bytes": 450086,
+    "mime": "application/pdf",
+    "names": [
+      "Pílulas de leitura musical Versão beta.pdf"
+    ]
+  },
+  {
+    "url": "files/0bd6e766537fb22441ef686283825c7cb1f7df3d.jpg",
+    "sha1": "0bd6e766537fb22441ef686283825c7cb1f7df3d",
+    "sha256": "f85ff3c9ca1c57f4f65be75db8e577d68291f80987c1275b057087fe218892a0",
+    "bytes": 618,
+    "mime": "image/jpeg",
+    "names": [
+      "qr_code_livro-pilulas.jpg"
+    ]
+  },
+  {
+    "url": "files/dd0523f40e25057afecd62cca24376062963dd29.jpg",
+    "sha1": "dd0523f40e25057afecd62cca24376062963dd29",
+    "sha256": "d355f5ebdde3537ea195e08468500a3bca42978ab12ac07b102f9aaf38e04f1f",
+    "bytes": 27347,
+    "mime": "image/jpeg",
+    "names": [
+      "avaliacao.jpg"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/15702df3c2131f0c2d14963df6e1ed019e354dea.png",
+    "sha1": "15702df3c2131f0c2d14963df6e1ed019e354dea",
+    "sha256": "99c599e3983e19019e9518f7afbfac36b3d9b53dab0ce8b7dad9bf4619efe594",
+    "bytes": 45523,
+    "mime": "image/png",
+    "names": [
+      "banner_em.png"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/73adfeeb7d0ffeccb6e8e062ede196c5f6f5d3f9.zip",
+    "sha1": "73adfeeb7d0ffeccb6e8e062ede196c5f6f5d3f9",
+    "sha256": "f6ceb61a067169ac8fd4195322e176a6ac45dcb0809990e0df6394645f2ed636",
+    "bytes": 243601,
+    "mime": "application/x-zip-compressed",
+    "names": [
+      "divisores.zip"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/52d7132d52b0cdf5f83702257437d4064c634371.jpg",
+    "sha1": "52d7132d52b0cdf5f83702257437d4064c634371",
+    "sha256": "95d78d4431b28a8eac3cc91f4501032833f566338711be9e850928938f7e1895",
+    "bytes": 26972,
+    "mime": "image/jpeg",
+    "names": [
+      "parte1.jpg"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/573d509819c82ead848bcc70b28735259ab5b7b9.jpg",
+    "sha1": "573d509819c82ead848bcc70b28735259ab5b7b9",
+    "sha256": "6ce6c98439623f31329ed2be00afb02b4f7e048cbffa04ba56e40a853e277f3a",
+    "bytes": 27040,
+    "mime": "image/jpeg",
+    "names": [
+      "parte2.jpg"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/3a84df5d4f2c148ac88c04fd8829fb631a777c13.jpg",
+    "sha1": "3a84df5d4f2c148ac88c04fd8829fb631a777c13",
+    "sha256": "0b0aa6d253132b00eba5131faffe659487af89a5b2337baf60e1097bc280d24d",
+    "bytes": 28427,
+    "mime": "image/jpeg",
+    "names": [
+      "unidade1.jpg"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/10d55671d8d3025868cdabf7649e7464b91488c8.jpg",
+    "sha1": "10d55671d8d3025868cdabf7649e7464b91488c8",
+    "sha256": "9096da6a91e204154c0c64981420f13f652d6580ee08fca58a5a599bf099fcc3",
+    "bytes": 27960,
+    "mime": "image/jpeg",
+    "names": [
+      "unidade2.jpg"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/641a5e9e2828249fd25d48a6aa0723b04604ed14.jpg",
+    "sha1": "641a5e9e2828249fd25d48a6aa0723b04604ed14",
+    "sha256": "475713c62cb350f653bb8b50d2e0b56f6b711ff8c90a115f04c75f217b348517",
+    "bytes": 27848,
+    "mime": "image/jpeg",
+    "names": [
+      "unidade3.jpg"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/9a458ae6d23b4eb6e45b93e59bf3972030af2a7c.jpg",
+    "sha1": "9a458ae6d23b4eb6e45b93e59bf3972030af2a7c",
+    "sha256": "33786bf0aabbcf920939b5ea2ca9d0509f5a54a7f489399224990061b5551640",
+    "bytes": 27842,
+    "mime": "image/jpeg",
+    "names": [
+      "unidade4.jpg"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/79f382ab4a5e2c49ea0bf77bef7aa62a025fb724.jpg",
+    "sha1": "79f382ab4a5e2c49ea0bf77bef7aa62a025fb724",
+    "sha256": "f640314f8cdb8f4c1c1f340f62999e187d4dc547ba901f55a84690c144e019a1",
+    "bytes": 28293,
+    "mime": "image/jpeg",
+    "names": [
+      "unidade5.jpg"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/01c6445540bf1d3b62fd37d8fcd2835eb54a6ae6.jpg",
+    "sha1": "01c6445540bf1d3b62fd37d8fcd2835eb54a6ae6",
+    "sha256": "fd5df059f66863ddb57ceff22c3ab2587b516f41c9b976a498209130ed18e31e",
+    "bytes": 28320,
+    "mime": "image/jpeg",
+    "names": [
+      "unidade6.jpg"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/ff3c0ad6eec1ca353ca712199515f0715982645b.png",
+    "sha1": "ff3c0ad6eec1ca353ca712199515f0715982645b",
+    "sha256": "f3932982695bba17393610482a3b057817a8e0fc44b6961e6bffc3b307a2f1af",
+    "bytes": 32421,
+    "mime": "image/png",
+    "names": [
+      "unidade_7.png"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/373aa1d05bc138f9086322eab6ef214d4e8d4712.png",
+    "sha1": "373aa1d05bc138f9086322eab6ef214d4e8d4712",
+    "sha256": "2f748f92593a878b5ead2ab398a2c862f40713afdb229b38ef14c8be2d957cae",
+    "bytes": 32318,
+    "mime": "image/png",
+    "names": [
+      "unidade_8.png"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/190cc93a662e2a68812ec672dfb631be5179b263.jpg",
+    "sha1": "190cc93a662e2a68812ec672dfb631be5179b263",
+    "sha256": "11955ceb61200842f1943a55cb22167da41928534776496e24b447681fdd440f",
+    "bytes": 24684,
+    "mime": "image/jpeg",
+    "names": [
+      "vazio.jpg"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/da718d1385759efac7f71922ae8f8ac34b5b2302.zip",
+    "sha1": "da718d1385759efac7f71922ae8f8ac34b5b2302",
+    "sha256": "bc3ab5c4d3e8d71ef56f40188cfc4712ddec95489971147b6620ac116cc00a53",
+    "bytes": 243951,
+    "mime": "application/x-zip-compressed",
+    "names": [
+      "divisores.zip"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/0c0c60e23068542a2887967e6bc75409485c5fb2.jpg",
+    "sha1": "0c0c60e23068542a2887967e6bc75409485c5fb2",
+    "sha256": "e789fe5c85565c2343a00148696c8a0f79fd83c1d3cb8a785207b4c4684211a8",
+    "bytes": 2757811,
+    "mime": "image/jpeg",
+    "names": [
+      "1017929_56218275.jpg"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/84b7ff83fc16b4e09a84d7115b0a3015f021c592.jpg",
+    "sha1": "84b7ff83fc16b4e09a84d7115b0a3015f021c592",
+    "sha256": "bf7bb76c6b08f4b366924ad647f75c01545c016ac3b3cf69fa35241b46fd1b31",
+    "bytes": 8605,
+    "mime": "image/jpeg",
+    "names": [
+      "Ambiente_de_Interacao.jpg"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/d01af1fc5500cd57b69723c203ed32a51fbaa13d.gif",
+    "sha1": "d01af1fc5500cd57b69723c203ed32a51fbaa13d",
+    "sha256": "fe1ee0b7822daa40c41d5cb9a90f3d415427b4cb85ec565e80e6e1334bacb6ba",
+    "bytes": 765,
+    "mime": "image/gif",
+    "names": [
+      "BandBarretosPQ.gif"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/c1e627e4df1e85a96d6703ae7355030b1b7daa40.gif",
+    "sha1": "c1e627e4df1e85a96d6703ae7355030b1b7daa40",
+    "sha256": "f8cefea923e56dafe20915f7e57bce99e4bdfe84bcd17aead44d69ce5c6cd5b2",
+    "bytes": 641,
+    "mime": "image/gif",
+    "names": [
+      "BandItapetiningaPQ.gif"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/1be6b337b29bd57d19e43bccb10f54bba668ed37.gif",
+    "sha1": "1be6b337b29bd57d19e43bccb10f54bba668ed37",
+    "sha256": "ca5aa41bc56e49526d829b09e83b32e04c40bf29a2ac008bb8fad25b86702db8",
+    "bytes": 2198,
+    "mime": "image/gif",
+    "names": [
+      "BandItaquiPQ.gif"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/b8e0841a96969000175c32070af8c6c0f11c7395.gif",
+    "sha1": "b8e0841a96969000175c32070af8c6c0f11c7395",
+    "sha256": "6891b1ef45b0bc06a7a9af36ba518ba09fe1b4fe4d973d3c4164064b9bca0abd",
+    "bytes": 2226,
+    "mime": "image/gif",
+    "names": [
+      "BandJalesPQ.gif"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/ed33d1a836121200be838afbfa89c3c941518a6d.gif",
+    "sha1": "ed33d1a836121200be838afbfa89c3c941518a6d",
+    "sha256": "4423496da6b003b4c843f7b14cb0e697fcae1cb18abcb1cadc2e0fab107b7619",
+    "bytes": 1791,
+    "mime": "image/gif",
+    "names": [
+      "BandOsascoPQ.gif"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/024ced8ff7621b632f5675f70091b316b5ecd06b.gif",
+    "sha1": "024ced8ff7621b632f5675f70091b316b5ecd06b",
+    "sha256": "0027fb59e2fea6fed4a8f6a7058c7f3dda98c9a06de10769d1082ce8f99f7897",
+    "bytes": 647,
+    "mime": "image/gif",
+    "names": [
+      "BandSCarlosPQ.gif"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/64279600645901a277bf7664818d12cfc5ed3fd5.jpg",
+    "sha1": "64279600645901a277bf7664818d12cfc5ed3fd5",
+    "sha256": "4b07d7ce08d1f4c37fd2b51c66307b1679e153af5cbeea0560235b6d31f38614",
+    "bytes": 44520,
+    "mime": "image/jpeg",
+    "names": [
+      "CB068210.jpg"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/67ff58d196d61c686dbd69c967140243e740cdc3.jpg",
+    "sha1": "67ff58d196d61c686dbd69c967140243e740cdc3",
+    "sha256": "dcd13bc866d190cd64eeb6f43e44773de571a1c44fe1b5ef820e823cd8fab770",
+    "bytes": 26960,
+    "mime": "image/jpeg",
+    "names": [
+      "coordenacao_da_licenciatura.jpg"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/b069c74e39e79a4b63457364d86547288338c3e9.jpg",
+    "sha1": "b069c74e39e79a4b63457364d86547288338c3e9",
+    "sha256": "3aa348c26e27b447b8d574ffa242bd36f7a6e22035898f80aa353079106c736d",
+    "bytes": 3101990,
+    "mime": "image/jpeg",
+    "names": [
+      "DSC01533.JPG"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/e42f3e4afe3b1736ec3a491d61dc9c1f1b2ee2bf.jpg",
+    "sha1": "e42f3e4afe3b1736ec3a491d61dc9c1f1b2ee2bf",
+    "sha256": "490cc2bf892815dfeae5948fc15f2ce1568c6df162175e869b153a002d7d2e88",
+    "bytes": 2735403,
+    "mime": "image/jpeg",
+    "names": [
+      "DSC01535.JPG"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/67d0b3a244ead320b060fdfc96da16d4e0fbadbb.jpg",
+    "sha1": "67d0b3a244ead320b060fdfc96da16d4e0fbadbb",
+    "sha256": "f93dd3575c58553cbb3b491a135dcb00129f7a2aeff7482a873b9941bc6b2919",
+    "bytes": 57760,
+    "mime": "image/jpeg",
+    "names": [
+      "Imagem_do_curso.jpg"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/82b41e2439006fe6d191b8c8b69dd12a98c6cb8a.jpg",
+    "sha1": "82b41e2439006fe6d191b8c8b69dd12a98c6cb8a",
+    "sha256": "3141cc465630f123661d2a4270d4f4499a6f379cb44ebc4480a0e09f60f3338e",
+    "bytes": 12907,
+    "mime": "image/jpeg",
+    "names": [
+      "Im_Polo_Itapevi.jpg"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/6d80ac69759ac3dd1f89b7bd8e90f55f541f19f3.jpg",
+    "sha1": "6d80ac69759ac3dd1f89b7bd8e90f55f541f19f3",
+    "sha256": "2540ccaf5fba954332f45f23c08296195f59729578ff92d1aa73f108bb52f4de",
+    "bytes": 7521,
+    "mime": "image/jpeg",
+    "names": [
+      "ImgBarretos.jpg"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/a0e5e61a2cb176d42922621a4430562909af925b.jpg",
+    "sha1": "a0e5e61a2cb176d42922621a4430562909af925b",
+    "sha256": "a20e487421ba854c2f03503102cee5c2272f320fcb766f08ae5e23668a4dbc3e",
+    "bytes": 48728,
+    "mime": "image/jpeg",
+    "names": [
+      "ImgItapetininga.jpg"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/593f9240a4fccc5e0b1e651e92bdf90f54840eb4.jpg",
+    "sha1": "593f9240a4fccc5e0b1e651e92bdf90f54840eb4",
+    "sha256": "6d88ba938924760084c9c607cbe0f9ab9dae8512e4565b551e55d250f40480c6",
+    "bytes": 14914,
+    "mime": "image/jpeg",
+    "names": [
+      "ImgItaqui.jpg"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/682a8823589c49b950acf41d0fb27a89fc15c866.jpg",
+    "sha1": "682a8823589c49b950acf41d0fb27a89fc15c866",
+    "sha256": "10a40a4e3e69bff7adea8b017b559d1b8f4f5236693b5f61be9695929bd96460",
+    "bytes": 17343,
+    "mime": "image/jpeg",
+    "names": [
+      "ImgJales.jpg"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/c99688f7bd7d2f5874610e94c9fee458adf1f60c.jpg",
+    "sha1": "c99688f7bd7d2f5874610e94c9fee458adf1f60c",
+    "sha256": "1379f7a627e20a5434d29c6fb66023d7c69087bc598125acc6040eea5e343b05",
+    "bytes": 27064,
+    "mime": "image/jpeg",
+    "names": [
+      "ImgSCarlos.jpg"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/3253bc8e29d4dad14d40d7c03dcea00754845b2a.jpg",
+    "sha1": "3253bc8e29d4dad14d40d7c03dcea00754845b2a",
+    "sha256": "07177d866826b435155924582f736115c4c3e16701873d17fb29e8d31a51d803",
+    "bytes": 2701,
+    "mime": "image/jpeg",
+    "names": [
+      "luz_jpeg.jpg"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/a4d9f7d93e527eb0ce5ceca9845c028ef006a73a.jpg",
+    "sha1": "a4d9f7d93e527eb0ce5ceca9845c028ef006a73a",
+    "sha256": "b0ceffd36c8a910afae0852663a81e126f15059e5e875eec2008841ac2281d60",
+    "bytes": 42179,
+    "mime": "image/jpeg",
+    "names": [
+      "Pratica_e_ensino_musica.jpg"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/b6434e1de9699cf3bfde1cd95fa836d892569e1d.gif",
+    "sha1": "b6434e1de9699cf3bfde1cd95fa836d892569e1d",
+    "sha256": "cf8cc12fb1972c4e3472f6d0d8e7db27ce30a828c55ce8040359c27652cd6dcc",
+    "bytes": 1390,
+    "mime": "image/gif",
+    "names": [
+      "barra-mouse.gif"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/19fee645f28e67dff4a5269e07c85fc603591f11.gif",
+    "sha1": "19fee645f28e67dff4a5269e07c85fc603591f11",
+    "sha256": "f3bfca6ad676190c028563c1547113cec4c4004cd1272841aaa9e91d5befef79",
+    "bytes": 270,
+    "mime": "image/gif",
+    "names": [
+      "barra-olhinhos.gif"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/4be255d1380f41b72f952d8a08f01c0c7b553a09.jpg",
+    "sha1": "4be255d1380f41b72f952d8a08f01c0c7b553a09",
+    "sha256": "d5d910b13772a006f19da6dd33a1b2d7ff8b65e2b84b5ed52f47b7d6f294af78",
+    "bytes": 1503,
+    "mime": "image/jpeg",
+    "names": [
+      "disciplinas-laranja-peq.jpg"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/03f14d9712cb01839f06332ec293c746e48c144a.jpg",
+    "sha1": "03f14d9712cb01839f06332ec293c746e48c144a",
+    "sha256": "cb851a4e1ecf8ad9b3dfd6ebb84b2694ca1d1aefe23eb880bd2164286931b803",
+    "bytes": 2734,
+    "mime": "image/jpeg",
+    "names": [
+      "prof-peq.jpg"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/20067abd65c7f612b31979e2130bf27016701d7d.jpg",
+    "sha1": "20067abd65c7f612b31979e2130bf27016701d7d",
+    "sha256": "fcbcc681d65f27287f8570f6ccc5f48d291dd3904e13594fe709c7046a687746",
+    "bytes": 2128,
+    "mime": "image/jpeg",
+    "names": [
+      "tutores-peq.jpg"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/4d07b981634519b5bf23252f8263d506fd8b3b26.pdf",
+    "sha1": "4d07b981634519b5bf23252f8263d506fd8b3b26",
+    "sha256": "326d196d3579db04edceb449effb891889dca055773625cb02faea910d62533e",
+    "bytes": 554018,
+    "mime": "application/pdf",
+    "names": [
+      "Colecao_Partituras_Noel_Rosa_Clave_de_Fa.pdf"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/e210a87c6f1aa1d0326a8175b3f0fdbb6fd40bad.jpg",
+    "sha1": "e210a87c6f1aa1d0326a8175b3f0fdbb6fd40bad",
+    "sha256": "a3a220906d45ea55bd29e47f6c7849470c442555b3d9c5f99b68db136af37887",
+    "bytes": 27101,
+    "mime": "image/jpeg",
+    "names": [
+      "EstatisticaNivel.jpg"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/69b3e47823a8be818a1d8d446cf23d09c5c128bb.jpg",
+    "sha1": "69b3e47823a8be818a1d8d446cf23d09c5c128bb",
+    "sha256": "1ccefb728d5d332d5ee0fcfcbbbd7db8e4e24a6a55ac9c554a16dc8a0b89977d",
+    "bytes": 36840,
+    "mime": "image/jpeg",
+    "names": [
+      "EstatisticaTurma.jpg"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/f9ba3cf414d6ca651eac09844e0c55543dd1aefc.png",
+    "sha1": "f9ba3cf414d6ca651eac09844e0c55543dd1aefc",
+    "sha256": "7d1fed3ae0cfc40378ca87a8de33bbc956627e7582a34ad1cd175acc42f303b1",
+    "bytes": 16777,
+    "mime": "image/png",
+    "names": [
+      "4-03.png"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/ba091fff91392d97fc4df849b9b713ebaeeba39a.png",
+    "sha1": "ba091fff91392d97fc4df849b9b713ebaeeba39a",
+    "sha256": "415f7bf62bc03f5bf83d433331073081e54e3623bc1f99398e908b7544c57745",
+    "bytes": 15873,
+    "mime": "image/png",
+    "names": [
+      "4-04.png"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/7d3b91fd2891ff220a3956f22d4a5a5d1c1b577f.png",
+    "sha1": "7d3b91fd2891ff220a3956f22d4a5a5d1c1b577f",
+    "sha256": "8fbb434c377cabed2d99fd2031b3f6b1090bedcfd8ed7ed9d491ac81a61b1150",
+    "bytes": 16405,
+    "mime": "image/png",
+    "names": [
+      "4-05.png"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/6fa80cc306861a4245bf1dc58999734c39f86d3c.png",
+    "sha1": "6fa80cc306861a4245bf1dc58999734c39f86d3c",
+    "sha256": "487861978462ea9f4dec11e92bf74ac8774388e4d53148295bf64cc1b6214d8c",
+    "bytes": 16194,
+    "mime": "image/png",
+    "names": [
+      "4-06.png"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/77d70a99d5c9eb88169201cca54dd0d849636abf.png",
+    "sha1": "77d70a99d5c9eb88169201cca54dd0d849636abf",
+    "sha256": "c77a6c04b105a7680d152601d94f112fb6cfa551e966cf2fb6ee6af004b3ae5a",
+    "bytes": 16414,
+    "mime": "image/png",
+    "names": [
+      "4-07.png"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/579f3b13ac4311a2e0b254f9a10c146f4c16a119.png",
+    "sha1": "579f3b13ac4311a2e0b254f9a10c146f4c16a119",
+    "sha256": "b0b76852ffbb6eaef964ba99cc1d7b87b8ce4f9182477408ed5005775fe09f0a",
+    "bytes": 16506,
+    "mime": "image/png",
+    "names": [
+      "4-08.png"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/20b1c878f27f814a096fcaaf69ae117aa772a5f3.png",
+    "sha1": "20b1c878f27f814a096fcaaf69ae117aa772a5f3",
+    "sha256": "8e2935e8033068a4ac967038ae4a80b5b387d4f8ee1d037584098911e4f45eb3",
+    "bytes": 16457,
+    "mime": "image/png",
+    "names": [
+      "4-09.png"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/249b9d836f8fd22d820439904ef412399217aaa4.png",
+    "sha1": "249b9d836f8fd22d820439904ef412399217aaa4",
+    "sha256": "24a4259578a3d942a5a7bea0e5b168a78402181e2c83333e3b443f781b6e8375",
+    "bytes": 16334,
+    "mime": "image/png",
+    "names": [
+      "4-10.png"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/e51adc523a228cb55d45fa614cc4e1ae5cbbaa5c.png",
+    "sha1": "e51adc523a228cb55d45fa614cc4e1ae5cbbaa5c",
+    "sha256": "73a48871a430ff3bbc0771a94795938d08d57d009b4d694449931f3aa3d0986a",
+    "bytes": 16061,
+    "mime": "image/png",
+    "names": [
+      "4-11.png"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/70b45f577b27fbae7f3504cfb2746839d3748005.png",
+    "sha1": "70b45f577b27fbae7f3504cfb2746839d3748005",
+    "sha256": "8ebe1c82e84c28c7a3d53a1cbc58515d137d29764c298546faad99dc64bad560",
+    "bytes": 16107,
+    "mime": "image/png",
+    "names": [
+      "4-12.png"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/66843d8d30b6c1d51063e54cf94b887eb550e5bd.png",
+    "sha1": "66843d8d30b6c1d51063e54cf94b887eb550e5bd",
+    "sha256": "3bdb11863c69569476859b4e4529c31904106ecdfd9b0d270aed516ecd3e0033",
+    "bytes": 16347,
+    "mime": "image/png",
+    "names": [
+      "4-13.png"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/ca56822a612a73278d74de7aceb20fe370436de4.png",
+    "sha1": "ca56822a612a73278d74de7aceb20fe370436de4",
+    "sha256": "663ae928a4608241859eb08ab3a5095b66222ff172d125595b6e24223070070d",
+    "bytes": 17507,
+    "mime": "image/png",
+    "names": [
+      "4-14.png"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/40f3350e4078dbda46ece500c94ac6c2978ff2fc.png",
+    "sha1": "40f3350e4078dbda46ece500c94ac6c2978ff2fc",
+    "sha256": "8495f4638890893873a567193ea31464b02ab9b00a6cd3cb3e6edddeb54dc2d1",
+    "bytes": 16531,
+    "mime": "image/png",
+    "names": [
+      "4-15.png"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/a7f1900567df851358e547e5ee49e9236833afa4.png",
+    "sha1": "a7f1900567df851358e547e5ee49e9236833afa4",
+    "sha256": "fe1a9cad39beb10a9af432a3c2e175baa6aaf5669447b9afb61f734743389fc8",
+    "bytes": 17197,
+    "mime": "image/png",
+    "names": [
+      "4-16.png"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/5495eb16753fa9b9215ede4b3ac4e7125240f259.png",
+    "sha1": "5495eb16753fa9b9215ede4b3ac4e7125240f259",
+    "sha256": "3d2ccc142aac3d33ef7447d07e8f03c7e2b975b2d3ebea7c7762b46441832a87",
+    "bytes": 17363,
+    "mime": "image/png",
+    "names": [
+      "4-17.png"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/60e2a3e1bd4e1d796409634cf6b653119976df45.png",
+    "sha1": "60e2a3e1bd4e1d796409634cf6b653119976df45",
+    "sha256": "e0ebc2d1f0be5a87f61e970e17a4f9282ff7d2d29a3971adfb7e0d86c0b67b35",
+    "bytes": 16690,
+    "mime": "image/png",
+    "names": [
+      "4-18.png"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/fa844c76bae8f375a42dab6c6427a48726463015.png",
+    "sha1": "fa844c76bae8f375a42dab6c6427a48726463015",
+    "sha256": "f2c1eab9729aa8c9b99c30d4a104263887d0e339294490035c9dae22bdcb3b71",
+    "bytes": 17084,
+    "mime": "image/png",
+    "names": [
+      "4-19.png"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/2d41864fbd0f879c153278d1f688a8d9eb356e6b.png",
+    "sha1": "2d41864fbd0f879c153278d1f688a8d9eb356e6b",
+    "sha256": "59650cd77dceccb216162254fc65c69c88f3e961857e8d377a34766dbab81459",
+    "bytes": 17009,
+    "mime": "image/png",
+    "names": [
+      "4-20.png"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/ba701317600cc6b306e3b4d865f6b8764b7d8d12.png",
+    "sha1": "ba701317600cc6b306e3b4d865f6b8764b7d8d12",
+    "sha256": "c450c74514ab86d18eacec8649b97875ef6a2e932568ce3ada526a1c5c1c9894",
+    "bytes": 16982,
+    "mime": "image/png",
+    "names": [
+      "4-21.png"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/25652c79e46aab2b7826fd58412e1fc781b456d8.png",
+    "sha1": "25652c79e46aab2b7826fd58412e1fc781b456d8",
+    "sha256": "8091bab040a58088e4934810aaa89391dca573780c4646f7bef63cf1150d796b",
+    "bytes": 17154,
+    "mime": "image/png",
+    "names": [
+      "4-22.png"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/45ff461b5502315efa4ffdf9cf644bcf3fd6b163.png",
+    "sha1": "45ff461b5502315efa4ffdf9cf644bcf3fd6b163",
+    "sha256": "dc61e39b4c4cb752d6e03b5bed4ff430f50f94c85ddbf888470a7bb11dd0ee60",
+    "bytes": 16014,
+    "mime": "image/png",
+    "names": [
+      "4-23.png"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/864e80515280cb98e5919bef6938366c11b2d0f6.mp3",
+    "sha1": "864e80515280cb98e5919bef6938366c11b2d0f6",
+    "sha256": "8fb0c3a20c43ccad69e642c91830f82bd089ae1b7095201538e7ca3aa6d9eff6",
+    "bytes": 207624,
+    "mime": "audio/mpeg",
+    "names": [
+      "LM4-03.mp3"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/c16e8f80df6bcdd75691b5146cbbd9b5c4a27384.mp3",
+    "sha1": "c16e8f80df6bcdd75691b5146cbbd9b5c4a27384",
+    "sha256": "29cdfbc7311a808d3087ecaa0e9f1c269c2d181b51a811e9612c2c3709012441",
+    "bytes": 213475,
+    "mime": "audio/mpeg",
+    "names": [
+      "LM4-04.mp3"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/ab567d3f5015cabbc74af06acd5359ccad32065d.mp3",
+    "sha1": "ab567d3f5015cabbc74af06acd5359ccad32065d",
+    "sha256": "f3f3b67feb790be57d4301f6ce3f3471634c513db17d161f551f88dc4d3fd90c",
+    "bytes": 220163,
+    "mime": "audio/mpeg",
+    "names": [
+      "LM4-05.mp3"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/197b5ab58956c889e233d5582fbd498e24dce123.mp3",
+    "sha1": "197b5ab58956c889e233d5582fbd498e24dce123",
+    "sha256": "cc714ccea1b330242e3bd8e3c981a7ae1441e5e4a6f09b561acb03346331d8ca",
+    "bytes": 216819,
+    "mime": "audio/mpeg",
+    "names": [
+      "LM4-06.mp3"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/9a2423b5c2c977f0efcca8d95b258189dd75c5cc.mp3",
+    "sha1": "9a2423b5c2c977f0efcca8d95b258189dd75c5cc",
+    "sha256": "68147291eaf2bea7ecb6ed68ead162839a455119c976d57c891a0afb3b283e7c",
+    "bytes": 217655,
+    "mime": "audio/mpeg",
+    "names": [
+      "LM4-07.mp3"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/e3b2f80100793064b781c9f0a888cd0f2ba81856.mp3",
+    "sha1": "e3b2f80100793064b781c9f0a888cd0f2ba81856",
+    "sha256": "b6132fbc747205eeeb6417c01f811aafc5731aa09143fd3148a353de8ac04247",
+    "bytes": 213475,
+    "mime": "audio/mpeg",
+    "names": [
+      "LM4-08.mp3"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/7c8a81c06ee43f41f0f72094a951b9b5428db952.mp3",
+    "sha1": "7c8a81c06ee43f41f0f72094a951b9b5428db952",
+    "sha256": "d20b5e88c14a5f7fb309ff9960dfead6b67849b342b8fa0407f090789269fc2d",
+    "bytes": 206788,
+    "mime": "audio/mpeg",
+    "names": [
+      "LM4-09.mp3"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/0e77b588cb2003cdc76d6dc281f4da5030adf48b.mp3",
+    "sha1": "0e77b588cb2003cdc76d6dc281f4da5030adf48b",
+    "sha256": "2e27cc90a355ebc69df2d63ea93d31adcf0f10870d6b4154610f6c1c9123c215",
+    "bytes": 222670,
+    "mime": "audio/mpeg",
+    "names": [
+      "LM4-10.mp3"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/525130343e045e03b16c68f1d8cd690557e8a70a.mp3",
+    "sha1": "525130343e045e03b16c68f1d8cd690557e8a70a",
+    "sha256": "4f1907319ca973776b7176ca88d1176e203227db438adeb6dd638db7298cbd8c",
+    "bytes": 216819,
+    "mime": "audio/mpeg",
+    "names": [
+      "LM4-11.mp3"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/83aea7b899680e8e7e785eec5458986951764e02.mp3",
+    "sha1": "83aea7b899680e8e7e785eec5458986951764e02",
+    "sha256": "fbabb5c6aa7b21743afa905ff371d0802e5aa656cc3ef217cab268e40a1ff8f5",
+    "bytes": 209296,
+    "mime": "audio/mpeg",
+    "names": [
+      "LM4-12.mp3"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/1948d30fa317cfd67683fb7fdfdbb29143119372.mp3",
+    "sha1": "1948d30fa317cfd67683fb7fdfdbb29143119372",
+    "sha256": "895c0e26f5941348444ea6377491c459580da53613440246a4e138e57eaf9914",
+    "bytes": 224342,
+    "mime": "audio/mpeg",
+    "names": [
+      "LM4-13.mp3"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/5e890c010b420ea824cbf352f9fe3f590f0e4a3d.mp3",
+    "sha1": "5e890c010b420ea824cbf352f9fe3f590f0e4a3d",
+    "sha256": "4d7618acde943bc4b4052a490f343d0bab457cdd646643917a22e770740746b9",
+    "bytes": 222670,
+    "mime": "audio/mpeg",
+    "names": [
+      "LM4-14.mp3"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/2c954acae52e22848771dd67a540b8ee178c48a3.mp3",
+    "sha1": "2c954acae52e22848771dd67a540b8ee178c48a3",
+    "sha256": "7ff3a1a9afeaf6c63845201caa79dcef862b9fee4f056fd5047ae72e361fc901",
+    "bytes": 206788,
+    "mime": "audio/mpeg",
+    "names": [
+      "LM4-15.mp3"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/03e6af08a171e5915434535f63bc25f2741fe70b.mp3",
+    "sha1": "03e6af08a171e5915434535f63bc25f2741fe70b",
+    "sha256": "b6c0b0696556979112185906fd021a87481d3e654a7e7c7c56bfec6eaf675a6f",
+    "bytes": 213475,
+    "mime": "audio/mpeg",
+    "names": [
+      "LM4-16.mp3"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/028ee31595e68cb24069468383b169d9f26ce2d6.mp3",
+    "sha1": "028ee31595e68cb24069468383b169d9f26ce2d6",
+    "sha256": "ee3766d4554c3388e7b8b2617777dcad2d03dc9dc98b3e46d9e183c044e5a6a3",
+    "bytes": 210132,
+    "mime": "audio/mpeg",
+    "names": [
+      "LM4-17.mp3"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/6708256dfc3eacef0a18fac0d724851e6ceabf40.mp3",
+    "sha1": "6708256dfc3eacef0a18fac0d724851e6ceabf40",
+    "sha256": "bceb428f41cd624cc8ecd8a1f2434d3b10cdf48abd20685026f7701423b47a5e",
+    "bytes": 223506,
+    "mime": "audio/mpeg",
+    "names": [
+      "LM4-18.mp3"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/ca6452702dfdc720166d1c85a7ba38999b6b39ac.mp3",
+    "sha1": "ca6452702dfdc720166d1c85a7ba38999b6b39ac",
+    "sha256": "068e835e49fec9ed81b5ba0e8d15573deef9e64347a91eab8e6212eead253865",
+    "bytes": 214499,
+    "mime": "audio/mpeg",
+    "names": [
+      "LM4-19.mp3"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/798b61f2ffb445420bfd407d4e30d3d1e61002a1.mp3",
+    "sha1": "798b61f2ffb445420bfd407d4e30d3d1e61002a1",
+    "sha256": "2220ce1ee918ce5e0c3d61ffe194e573670b636bd12e7f31140cab3e94ca5176",
+    "bytes": 215335,
+    "mime": "audio/mpeg",
+    "names": [
+      "LM4-20.mp3"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/853d5e15e06774a5b76fd78170c8c8894794f98d.mp3",
+    "sha1": "853d5e15e06774a5b76fd78170c8c8894794f98d",
+    "sha256": "dfe396799355561e39b3c5e829b5f97da81ccac5ce65a547b2ce434b4a9bba4d",
+    "bytes": 218679,
+    "mime": "audio/mpeg",
+    "names": [
+      "LM4-21.mp3"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/a13bf57f0d47b160a712cf64d84c106f17f5da88.mp3",
+    "sha1": "a13bf57f0d47b160a712cf64d84c106f17f5da88",
+    "sha256": "e8d3a5d78c3b952d61c85c4b9bd9558083ab1ffc7cd69570a66cb25e5ac49847",
+    "bytes": 217007,
+    "mime": "audio/mpeg",
+    "names": [
+      "LM4-22.mp3"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/d72fb05fed4c50fa10446a9409605897f8984caf.mp3",
+    "sha1": "d72fb05fed4c50fa10446a9409605897f8984caf",
+    "sha256": "c0d6a8119ec9c65f8c291826dde93deeaa1c49bd7aa89c5536d3edfcdf543348",
+    "bytes": 210968,
+    "mime": "audio/mpeg",
+    "names": [
+      "LM4-23.mp3"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/cd42770281e50d0c28d30ad819c4bad6b22a5317.mp3",
+    "sha1": "cd42770281e50d0c28d30ad819c4bad6b22a5317",
+    "sha256": "8fd42744e2f6090bab6727d4bf85e49aa36cc4e36935271a24da339b4467d55b",
+    "bytes": 655676,
+    "mime": "audio/mpeg",
+    "names": [
+      "M.mp3"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/74ac84459776ed96baea41a2126ab39d90d1ada9.mus",
+    "sha1": "74ac84459776ed96baea41a2126ab39d90d1ada9",
+    "sha256": "86256ee7d8d78c64141a26c676b2c468a740794455eea541178de55d16c2bfb3",
+    "bytes": 81926,
+    "mime": "application/octet-stream",
+    "names": [
+      "#Leit5.mus"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/3971ad088863c3f0d11689d151a2ac28f0fcf754.zip",
+    "sha1": "3971ad088863c3f0d11689d151a2ac28f0fcf754",
+    "sha256": "c17c49f23ef16687c17ccc4319c4681280e78691be83b48ac805e2c2092f496b",
+    "bytes": 4373310,
+    "mime": "application/x-zip-compressed",
+    "names": [
+      "22.zip"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/346dd8d33522488dc3f41d40d63b933787df8094.zip",
+    "sha1": "346dd8d33522488dc3f41d40d63b933787df8094",
+    "sha256": "0bc025a3c136869c21ab80c7d349e6e12c5d8342b63778caed67f33eb33a6606",
+    "bytes": 4300319,
+    "mime": "application/x-zip-compressed",
+    "names": [
+      "new.zip"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/598136d77e550fff69f8ca79622ac8f4a981f73e.pdf",
+    "sha1": "598136d77e550fff69f8ca79622ac8f4a981f73e",
+    "sha256": "36ca25b34a0f7dd8d77b827eae892a3ddc6667b9fbc6e9e09b0da96345375c4c",
+    "bytes": 896478,
+    "mime": "application/pdf",
+    "names": [
+      "Quadro_de_referencia-COPEA_fev_2012.pdf"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/dd7f4ba7546d0c62f59224d491131e743f1764d4.doc",
+    "sha1": "dd7f4ba7546d0c62f59224d491131e743f1764d4",
+    "sha256": "e26bcd0d72f9d66fc1f9d34269b03f11cf4c60a0ff8ab46acfbad95380706dde",
+    "bytes": 28160,
+    "mime": "application/msword",
+    "names": [
+      "template-word-pdf.doc"
+    ],
+    "source": "secondary"
+  },
+  {
+    "url": "files/77e8f847947ac0c55c6081e8d0819aea75fa96d1.flv",
+    "sha1": "77e8f847947ac0c55c6081e8d0819aea75fa96d1",
+    "sha256": "f287a819bae6d01fa78be8651e92c3c09d07ec48ded2fe4e279881fad994e6c9",
+    "bytes": 15495390,
+    "mime": "application/octet-stream",
+    "names": [
+      "Maximinivide01MemorizacaoNotasClaveFaLento_Final.flv"
+    ],
+    "source": "secondary",
+    "playUrl": "files/3eee440ab1f66aa2d1ee5f4980bd280e7a0e4971.mp4"
+  },
+  {
+    "url": "files/3eee440ab1f66aa2d1ee5f4980bd280e7a0e4971.mp4",
+    "sha1": "3eee440ab1f66aa2d1ee5f4980bd280e7a0e4971",
+    "sha256": "fde1d3602924564f6b6cce09d15c3180303656bddcd35848164c13266ae99aa0",
+    "bytes": 3426143,
+    "mime": "video/mp4",
+    "names": [
+      "Maximinivide01MemorizacaoNotasClaveFaLento_Final.mp4"
+    ],
+    "source": "converted",
+    "derivedFrom": "files/77e8f847947ac0c55c6081e8d0819aea75fa96d1.flv"
+  },
+  {
+    "url": "files/db0be967cc1ff7bb496c9620602371bfe06c482b.flv",
+    "sha1": "db0be967cc1ff7bb496c9620602371bfe06c482b",
+    "sha256": "4f0a38ca95012944abbfe74aa0ee79b6be5650745883273c04308bd4aa061d99",
+    "bytes": 13708019,
+    "mime": "application/octet-stream",
+    "names": [
+      "Maximinivide01MemorizacaoNotasClaveFaMedio_Final.flv"
+    ],
+    "source": "secondary",
+    "playUrl": "files/0452677f0e8a300ae16a3060607f329aa1630d09.mp4"
+  },
+  {
+    "url": "files/0452677f0e8a300ae16a3060607f329aa1630d09.mp4",
+    "sha1": "0452677f0e8a300ae16a3060607f329aa1630d09",
+    "sha256": "b146977a07bb4c258d9c613ba51e9a3437a73dd8ea25114931e2311dc81a1894",
+    "bytes": 3090011,
+    "mime": "video/mp4",
+    "names": [
+      "Maximinivide01MemorizacaoNotasClaveFaMedio_Final.mp4"
+    ],
+    "source": "converted",
+    "derivedFrom": "files/db0be967cc1ff7bb496c9620602371bfe06c482b.flv"
+  },
+  {
+    "url": "files/a86a1efd4b18fd1788407530df574c52e70e4f96.flv",
+    "sha1": "a86a1efd4b18fd1788407530df574c52e70e4f96",
+    "sha256": "d0be8ac8486fa71e120be1c9b3e3e8a1290b3464cc6e707e6e7d033eb5c19d28",
+    "bytes": 6779398,
+    "mime": "application/octet-stream",
+    "names": [
+      "Maximinivide01MemorizacaoNotasClaveFaRapido_Final.flv"
+    ],
+    "source": "secondary",
+    "playUrl": "files/6667dabd33a29834f6af2460a6522115a60b7dce.mp4"
+  },
+  {
+    "url": "files/6667dabd33a29834f6af2460a6522115a60b7dce.mp4",
+    "sha1": "6667dabd33a29834f6af2460a6522115a60b7dce",
+    "sha256": "074760e3a8666f616f3163d3d4933299ac4775066c114add2e005a5a4859f915",
+    "bytes": 2536550,
+    "mime": "video/mp4",
+    "names": [
+      "Maximinivide01MemorizacaoNotasClaveFaRapido_Final.mp4"
+    ],
+    "source": "converted",
+    "derivedFrom": "files/a86a1efd4b18fd1788407530df574c52e70e4f96.flv"
+  },
+  {
+    "url": "files/b28baac3d1b428d3ae173137df64251177adb873.flv",
+    "sha1": "b28baac3d1b428d3ae173137df64251177adb873",
+    "sha256": "6bf506a7501d92c21a18e9925a1d56fb2b6b7b077abd89d8a98af7ec4906d209",
+    "bytes": 16062197,
+    "mime": "application/octet-stream",
+    "names": [
+      "Maximinivide01MemorizacaoNotasEspacoClaveFaLento_Final.flv"
+    ],
+    "source": "secondary",
+    "playUrl": "files/f5041cc7156f4f62cb77a54da0fa876da735576c.mp4"
+  },
+  {
+    "url": "files/f5041cc7156f4f62cb77a54da0fa876da735576c.mp4",
+    "sha1": "f5041cc7156f4f62cb77a54da0fa876da735576c",
+    "sha256": "76a7b9b137f30b497872066664f219daa05ddbfdfaf5a6e15fe10488d973a748",
+    "bytes": 3474110,
+    "mime": "video/mp4",
+    "names": [
+      "Maximinivide01MemorizacaoNotasEspacoClaveFaLento_Final.mp4"
+    ],
+    "source": "converted",
+    "derivedFrom": "files/b28baac3d1b428d3ae173137df64251177adb873.flv"
+  },
+  {
+    "url": "files/23cf76b098b41348babd146a22b900441fef26f8.flv",
+    "sha1": "23cf76b098b41348babd146a22b900441fef26f8",
+    "sha256": "c8325091e01a797c18dcb91a1f8b83d76a095bf1225d6fdf40533f41e76eabc9",
+    "bytes": 14328557,
+    "mime": "application/octet-stream",
+    "names": [
+      "Maximinivide01MemorizacaoNotasEspacoClaveFaMedio_Final.flv"
+    ],
+    "source": "secondary",
+    "playUrl": "files/3b917bdaaa28e07aff80aa64c2c6345068fcb43f.mp4"
+  },
+  {
+    "url": "files/3b917bdaaa28e07aff80aa64c2c6345068fcb43f.mp4",
+    "sha1": "3b917bdaaa28e07aff80aa64c2c6345068fcb43f",
+    "sha256": "1a34289a97c1b7d7002dea52c9a0f6abbfa55a2d3a7c3c79f89c415fe70023b1",
+    "bytes": 3171756,
+    "mime": "video/mp4",
+    "names": [
+      "Maximinivide01MemorizacaoNotasEspacoClaveFaMedio_Final.mp4"
+    ],
+    "source": "converted",
+    "derivedFrom": "files/23cf76b098b41348babd146a22b900441fef26f8.flv"
+  },
+  {
+    "url": "files/226a0e7e14e7b0e96629753b988b8e47ac971f87.flv",
+    "sha1": "226a0e7e14e7b0e96629753b988b8e47ac971f87",
+    "sha256": "76b48af8d88494ad52d63afd047f523b6e83e63e7cb9810e111c0cda65b748cd",
+    "bytes": 11749968,
+    "mime": "application/octet-stream",
+    "names": [
+      "Maximinivide01MemorizacaoNotasEspacoClaveFaRapido_Final.flv"
+    ],
+    "source": "secondary",
+    "playUrl": "files/71972b41907b51f7639a4691dcf43c534b858bb9.mp4"
+  },
+  {
+    "url": "files/71972b41907b51f7639a4691dcf43c534b858bb9.mp4",
+    "sha1": "71972b41907b51f7639a4691dcf43c534b858bb9",
+    "sha256": "5c18ceead319b70ed735fbb58e80ab9376c3657d233acd98607dcc77211c5208",
+    "bytes": 2741063,
+    "mime": "video/mp4",
+    "names": [
+      "Maximinivide01MemorizacaoNotasEspacoClaveFaRapido_Final.mp4"
+    ],
+    "source": "converted",
+    "derivedFrom": "files/226a0e7e14e7b0e96629753b988b8e47ac971f87.flv"
+  },
+  {
+    "url": "files/8c5879a6955e6e4eef380d42bd32ae5ba7a04cc5.flv",
+    "sha1": "8c5879a6955e6e4eef380d42bd32ae5ba7a04cc5",
+    "sha256": "cca4abaea33e6ff0c3cb7ad5a2a5c00f86ed4c9d3d9205fe4e54c80c41258e6e",
+    "bytes": 16474303,
+    "mime": "application/octet-stream",
+    "names": [
+      "Maximinivide01MemorizacaoNotasLinhasClaveFaLento_Final.flv"
+    ],
+    "source": "secondary",
+    "playUrl": "files/8e9a79fe09cded81a35bb5bf666d2dcd40274c72.mp4"
+  },
+  {
+    "url": "files/8e9a79fe09cded81a35bb5bf666d2dcd40274c72.mp4",
+    "sha1": "8e9a79fe09cded81a35bb5bf666d2dcd40274c72",
+    "sha256": "be2784a2288793fde6ff7e0f36f747dc384cade78743bcd5d172a1b2137036dc",
+    "bytes": 3824422,
+    "mime": "video/mp4",
+    "names": [
+      "Maximinivide01MemorizacaoNotasLinhasClaveFaLento_Final.mp4"
+    ],
+    "source": "converted",
+    "derivedFrom": "files/8c5879a6955e6e4eef380d42bd32ae5ba7a04cc5.flv"
+  },
+  {
+    "url": "files/b8ccee9d41ef15bc9908a7742ec9216566172222.flv",
+    "sha1": "b8ccee9d41ef15bc9908a7742ec9216566172222",
+    "sha256": "814dcae287face6ee0b2084019d9af7852cac286c6371f645ef87fc49531c234",
+    "bytes": 15246571,
+    "mime": "application/octet-stream",
+    "names": [
+      "Maximinivide01MemorizacaoNotasLinhasClaveFaMedio_Final.flv"
+    ],
+    "source": "secondary",
+    "playUrl": "files/5661bbdf2fd3e563499675edbb6a605eec45444e.mp4"
+  },
+  {
+    "url": "files/5661bbdf2fd3e563499675edbb6a605eec45444e.mp4",
+    "sha1": "5661bbdf2fd3e563499675edbb6a605eec45444e",
+    "sha256": "8dfd92a448180b4ccf107c32ee1934889adefa6f80277bcae38b0ba5736c8e5a",
+    "bytes": 3634034,
+    "mime": "video/mp4",
+    "names": [
+      "Maximinivide01MemorizacaoNotasLinhasClaveFaMedio_Final.mp4"
+    ],
+    "source": "converted",
+    "derivedFrom": "files/b8ccee9d41ef15bc9908a7742ec9216566172222.flv"
+  },
+  {
+    "url": "files/728a66ac77abb74d9f2268817692aa0a9ed1105d.flv",
+    "sha1": "728a66ac77abb74d9f2268817692aa0a9ed1105d",
+    "sha256": "2d18c99702d25ae4a51fcf4586343053ab1fb8bcc9372a40d2367239d5252645",
+    "bytes": 11332172,
+    "mime": "application/octet-stream",
+    "names": [
+      "Maximinivide01MemorizacaoNotasLinhasClaveFaRapido_Final.flv"
+    ],
+    "source": "secondary",
+    "playUrl": "files/bc278060c4eb7aaced05bf65f876cfc12f4302fa.mp4"
+  },
+  {
+    "url": "files/bc278060c4eb7aaced05bf65f876cfc12f4302fa.mp4",
+    "sha1": "bc278060c4eb7aaced05bf65f876cfc12f4302fa",
+    "sha256": "c89778c7a8d47f31c8b36d6b4f35fa5158216e68177e72fc96136d44a51fe71c",
+    "bytes": 2843323,
+    "mime": "video/mp4",
+    "names": [
+      "Maximinivide01MemorizacaoNotasLinhasClaveFaRapido_Final.mp4"
+    ],
+    "source": "converted",
+    "derivedFrom": "files/728a66ac77abb74d9f2268817692aa0a9ed1105d.flv"
+  }
+]

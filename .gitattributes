@@ -1,0 +1,8 @@
+files/** -text -diff
+*.js text eol=lf
+*.mjs text eol=lf
+*.json text eol=lf
+*.html text eol=lf
+*.css text eol=lf
+*.md text eol=lf
+*.py text eol=lf

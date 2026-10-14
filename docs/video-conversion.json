@@ -1,0 +1,92 @@
+[
+  {
+    "source": "Videos/MemoNotas/Maximinivide01MemorizacaoNotasClaveFaLento_Final.flv",
+    "sourceSha1": "77e8f847947ac0c55c6081e8d0819aea75fa96d1",
+    "sourceSha256": "f287a819bae6d01fa78be8651e92c3c09d07ec48ded2fe4e279881fad994e6c9",
+    "sourceBytes": 15495390,
+    "mp4": "77e8f847947ac0c55c6081e8d0819aea75fa96d1.mp4",
+    "mp4Sha256": "fde1d3602924564f6b6cce09d15c3180303656bddcd35848164c13266ae99aa0",
+    "mp4Bytes": 3426143,
+    "settings": "H.264 / AAC, yuv420p, CRF22, faststart; original FLV preserved"
+  },
+  {
+    "source": "Videos/MemoNotas/Maximinivide01MemorizacaoNotasClaveFaMedio_Final.flv",
+    "sourceSha1": "db0be967cc1ff7bb496c9620602371bfe06c482b",
+    "sourceSha256": "4f0a38ca95012944abbfe74aa0ee79b6be5650745883273c04308bd4aa061d99",
+    "sourceBytes": 13708019,
+    "mp4": "db0be967cc1ff7bb496c9620602371bfe06c482b.mp4",
+    "mp4Sha256": "b146977a07bb4c258d9c613ba51e9a3437a73dd8ea25114931e2311dc81a1894",
+    "mp4Bytes": 3090011,
+    "settings": "H.264 / AAC, yuv420p, CRF22, faststart; original FLV preserved"
+  },
+  {
+    "source": "Videos/MemoNotas/Maximinivide01MemorizacaoNotasClaveFaRapido_Final.flv",
+    "sourceSha1": "a86a1efd4b18fd1788407530df574c52e70e4f96",
+    "sourceSha256": "d0be8ac8486fa71e120be1c9b3e3e8a1290b3464cc6e707e6e7d033eb5c19d28",
+    "sourceBytes": 6779398,
+    "mp4": "a86a1efd4b18fd1788407530df574c52e70e4f96.mp4",
+    "mp4Sha256": "074760e3a8666f616f3163d3d4933299ac4775066c114add2e005a5a4859f915",
+    "mp4Bytes": 2536550,
+    "settings": "H.264 / AAC, yuv420p, CRF22, faststart; original FLV preserved"
+  },
+  {
+    "source": "Videos/MemoNotas/Maximinivide01MemorizacaoNotasEspacoClaveFaLento_Final.flv",
+    "sourceSha1": "b28baac3d1b428d3ae173137df64251177adb873",
+    "sourceSha256": "6bf506a7501d92c21a18e9925a1d56fb2b6b7b077abd89d8a98af7ec4906d209",
+    "sourceBytes": 16062197,
+    "mp4": "b28baac3d1b428d3ae173137df64251177adb873.mp4",
+    "mp4Sha256": "76a7b9b137f30b497872066664f219daa05ddbfdfaf5a6e15fe10488d973a748",
+    "mp4Bytes": 3474110,
+    "settings": "H.264 / AAC, yuv420p, CRF22, faststart; original FLV preserved"
+  },
+  {
+    "source": "Videos/MemoNotas/Maximinivide01MemorizacaoNotasEspacoClaveFaMedio_Final.flv",
+    "sourceSha1": "23cf76b098b41348babd146a22b900441fef26f8",
+    "sourceSha256": "c8325091e01a797c18dcb91a1f8b83d76a095bf1225d6fdf40533f41e76eabc9",
+    "sourceBytes": 14328557,
+    "mp4": "23cf76b098b41348babd146a22b900441fef26f8.mp4",
+    "mp4Sha256": "1a34289a97c1b7d7002dea52c9a0f6abbfa55a2d3a7c3c79f89c415fe70023b1",
+    "mp4Bytes": 3171756,
+    "settings": "H.264 / AAC, yuv420p, CRF22, faststart; original FLV preserved"
+  },
+  {
+    "source": "Videos/MemoNotas/Maximinivide01MemorizacaoNotasEspacoClaveFaRapido_Final.flv",
+    "sourceSha1": "226a0e7e14e7b0e96629753b988b8e47ac971f87",
+    "sourceSha256": "76b48af8d88494ad52d63afd047f523b6e83e63e7cb9810e111c0cda65b748cd",
+    "sourceBytes": 11749968,
+    "mp4": "226a0e7e14e7b0e96629753b988b8e47ac971f87.mp4",
+    "mp4Sha256": "5c18ceead319b70ed735fbb58e80ab9376c3657d233acd98607dcc77211c5208",
+    "mp4Bytes": 2741063,
+    "settings": "H.264 / AAC, yuv420p, CRF22, faststart; original FLV preserved"
+  },
+  {
+    "source": "Videos/MemoNotas/Maximinivide01MemorizacaoNotasLinhasClaveFaLento_Final.flv",
+    "sourceSha1": "8c5879a6955e6e4eef380d42bd32ae5ba7a04cc5",
+    "sourceSha256": "cca4abaea33e6ff0c3cb7ad5a2a5c00f86ed4c9d3d9205fe4e54c80c41258e6e",
+    "sourceBytes": 16474303,
+    "mp4": "8c5879a6955e6e4eef380d42bd32ae5ba7a04cc5.mp4",
+    "mp4Sha256": "be2784a2288793fde6ff7e0f36f747dc384cade78743bcd5d172a1b2137036dc",
+    "mp4Bytes": 3824422,
+    "settings": "H.264 / AAC, yuv420p, CRF22, faststart; original FLV preserved"
+  },
+  {
+    "source": "Videos/MemoNotas/Maximinivide01MemorizacaoNotasLinhasClaveFaMedio_Final.flv",
+    "sourceSha1": "b8ccee9d41ef15bc9908a7742ec9216566172222",
+    "sourceSha256": "814dcae287face6ee0b2084019d9af7852cac286c6371f645ef87fc49531c234",
+    "sourceBytes": 15246571,
+    "mp4": "b8ccee9d41ef15bc9908a7742ec9216566172222.mp4",
+    "mp4Sha256": "8dfd92a448180b4ccf107c32ee1934889adefa6f80277bcae38b0ba5736c8e5a",
+    "mp4Bytes": 3634034,
+    "settings": "H.264 / AAC, yuv420p, CRF22, faststart; original FLV preserved"
+  },
+  {
+    "source": "Videos/MemoNotas/Maximinivide01MemorizacaoNotasLinhasClaveFaRapido_Final.flv",
+    "sourceSha1": "728a66ac77abb74d9f2268817692aa0a9ed1105d",
+    "sourceSha256": "2d18c99702d25ae4a51fcf4586343053ab1fb8bcc9372a40d2367239d5252645",
+    "sourceBytes": 11332172,
+    "mp4": "728a66ac77abb74d9f2268817692aa0a9ed1105d.mp4",
+    "mp4Sha256": "c89778c7a8d47f31c8b36d6b4f35fa5158216e68177e72fc96136d44a51fe71c",
+    "mp4Bytes": 2843323,
+    "settings": "H.264 / AAC, yuv420p, CRF22, faststart; original FLV preserved"
+  }
+]
